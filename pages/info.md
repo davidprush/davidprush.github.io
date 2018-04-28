@@ -1,58 +1,71 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "Who is David P. Rush and what is this site?"
+teaser: "Not sure what will happen here, but I figure it's worth starting something on GitHub with this Jeckyll thing. Who knows? Maybe this we become something interesting for someone...maybe...at least one person."
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
+<!--more-->
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+So I'll give this [Jekyll][1] thing a try and see what I can with it...
 
+<p class="message">
+  Welcome! I hope to use this space to express my thoughts, concerns, and opinions about everything and anything related to technology. If you don't care for what I might have to say...great, move on. I don't want to waste anyone's time.
+</p>
 
-## Features
-
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+I don't have a target audience for this blog but I plan on writing about projects I'm working on and stuff I find interesting. I usually tweet about information technology, open source software, Linux, and digital rights and you can follow me [@davidprush][6]. I work for the United States Air Force as an avionics technician; I plan on continuing my military career until 2026. After I retire from military I plan pursuing a career in software engineering. My interest in computer programming started in [early grade school][7] and progressed from AP Computer Science to attending the University of Pittsbugrh for Information Science. For some reason a computer science degree was not something I seriously considered--maybe it was the advanced math. Nonetheless, my love for computers--especially Linux--continued to evolve and still provides a meaningful experience for me today.
 
 
+## Current Interests:
 
-## I got inspired by...
+* [Jekyll & Web development][1]
+* [Windows Subsystem for Linux][2]
+* [Optimizing Performance][3]
+* [Listening to Podcasts][4]
+* [Reading this right now][5]
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
+ <hr> <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B004P1JDJO&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_iX72AbVYPQYH8" ></iframe> <p>Drive provides a compelling case for what motivates people.</p>
 
 
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
+## My main curiosities are open source software and programming...
+
+
+*I think open source source software is the greatest technological advancement.*
+
+
+## Technical skills developed over the years:
+
+* Master Distro-Hopper
+* Amateur programmer: VBA, Python, C++, Bash scripting, and now working on Ruby
+* Familiar with web servers and networking
+* Honorable mention...Microsoft Office & application integration
+
+
+### Contact Info
+Have questions or suggestions? Feel free to [email me][14] or [ask me on Twitter][6].
+
+
+#### For, now I will be learning Ruby, Jeckyll, anything Linux.
+
+
+Let's have fun...[davidprush.com][13]
+
+ [1]: https://jekyllrb.com/
+ [2]: https://docs.microsoft.com/en-us/windows/wsl/install-win10
+ [3]: https://tim.blog/
+ [4]: http://podcasts.joerogan.net/
+ [5]: https://read.amazon.com/kp/embed?asin=B004P1JDJO&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_iX72AbVYPQYH8
+ [6]: https://twitter.com/davidprush
+ [7]: {{ site.url }}{{ site.baseurl }}{{ site.baseurl }}/Fanatic-No-More/
+ [8]: {{ site.url }}{{ site.baseurl }}/design/gallery/
+ [9]: {{ site.url }}{{ site.baseurl }}/design/video/
+ [10]: {{ site.url }}{{ site.baseurl }}/design/grid/
+ [11]: {{ site.url }}{{ site.baseurl }}/design/typography/
+ [12]: {{ site.url }}{{ site.baseurl }}/design/mediaelement_js/
+ [13]: {{ site.url }}{{ site.baseurl }}/
+ [14]: mailto:{{ site.data.authors.davidprush.email }}
  [15]: #
  [16]: #
  [17]: #

@@ -1,23 +1,25 @@
 ---
 layout: page
 sidebar: right
-subheadline: Templates
+subheadline: Story
 title:  "Fanatic No More"
-teaser: "This is a example of page/post with a sidebar on the left."
+teaser: "Linux Fanatic turned Windows Pragmatist...how could this be?"
 breadcrumb: true
 tags:
     - post format
-image:
-    header:
-        image_fullwidth: linux_microsoft.png
-  thumb: "assets\img\apple-touch-icon-precomposed.png"
+header:
+    title: Fanatic No More
+    background-color: "rgb(78, 114, 168);"
+    # pattern: pattern_concrete.jpg
+    image_fullwidth: linux_microsoft.png
+    thumb: /assets/img/apple-touch-icon-precomposed.png
+    caption: If at first you don't succeed, try again...
+    # caption_url: /
 ---
-
 <!--more-->
 
-## Linux Fanatic Turned Windows Pragmatist
+## Linux Fanatic Turned Windows pragmatist
 
-{% include list-posts tag='header' %}
 It was 1999, and I was a junior in high school when I installed Linux for the first time on my computer. It was a royal pain in the ass, but I enjoyed the challenge. The onboard modem did not work because it was software driven and my display was all kinds of messed up—thanks to integrated devices. Despite my inability to get my onboard soundcard working, my determination centered on getting Linux working. I had no clue what I was doing (a complete noob). My PC at the time was running Microsoft Windows 98, and I am almost sure Hewlett Packard had did not design it to run anything but Windows. But I was relentless in my determination to install this elusive yet foreign and fascinating operating system. But first I’d like to give you a little background on my Linux journey.
 
 My father was an independent self-employed salesman for Mylec Street Hockey—ergo my love for ice, roller, and street hockey—and various boot companies. Around 1988, my father bought his first desktop computer, the Mac SE. Now, this computer was strictly for his work to use Lotus-1-2-3 to track sales and finances. My fascination for this nascent technology would grow to an intense obsession. It did not take long for my father to foster my interests and kindle my desire to learn about the enthralling exemplar of late 80s technological achievement. The first computer game I played, Dark Castle, which we got from a local MUG member. It was interesting, but the novelty wore off—a resounding theme with my computer game interactions—because of my overbearing curiosity to learn how the computer worked.
