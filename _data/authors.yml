@@ -8,7 +8,7 @@
 phlow: # replace this with your info
   name: "David P. Rush"
   siterole: "webmaster, developer, copywriter, designer"
-  uri: http://davidprush.com/
-  email:davidprush@gmail.com
+  uri: http://davidprush.com
+  email: davidprush@gmail.com
   twitter: "@davidprush"
 # you can add more authors here
