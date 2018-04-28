@@ -248,10 +248,10 @@ sass:
 #
 #
 
-# asciidoctor-enabled: false
-# asciidoctor:
-#   description: testtewtetrue
-#   attributes:
-#     source-highlighter: coderay
-#     coderay-css: style
- #    icons: font
+asciidoctor-enabled: false
+asciidoctor:
+   description: testtewtetrue
+   attributes:
+     source-highlighter: coderay
+     coderay-css: style
+     icons: font
