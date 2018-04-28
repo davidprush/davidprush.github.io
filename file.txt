@@ -1,0 +1,301 @@
+  Logging at level: debug
+Configuration file: C:/Users/david/OneDrive/Projects/GitHub/davidprush.github.io/_config.yml
+      GitHub Pages: github-pages v183
+      GitHub Pages: jekyll v3.7.3
+         Requiring: jekyll-github-metadata
+Dotenv not found. Skipping 
+         Requiring: jekyll-seo-tag
+         Requiring: jekyll-gist
+         Requiring: jekyll-paginate
+         Requiring: jekyll-coffeescript
+         Requiring: jekyll-commonmark-ghpages
+         Requiring: jekyll-github-metadata
+         Requiring: jekyll-relative-links
+         Requiring: jekyll-optional-front-matter
+         Requiring: jekyll-readme-index
+         Requiring: jekyll-default-layout
+         Requiring: jekyll-titles-from-headings
+   GitHub Metadata: Initializing...
+            Source: C:/Users/david/OneDrive/Projects/GitHub/davidprush.github.io
+       Destination: C:/Users/david/OneDrive/Projects/GitHub/davidprush.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       EntryFilter: excluded /Gemfile
+       EntryFilter: excluded /Gemfile.lock
+       EntryFilter: excluded /LICENSE
+       EntryFilter: excluded /README.md
+           Reading: _posts/design/2014-07-09-post-left-sidebar.md
+           Reading: _posts/design/2014-07-10-breadcrumb.md
+           Reading: _posts/design/2014-07-10-page.md
+           Reading: _posts/design/2014-07-10-post-right-sidebar.md
+           Reading: _posts/design/2014-08-19-page-fullwidth.md
+           Reading: _posts/design/2014-09-10-portfolio.md
+           Reading: _posts/design/2014-09-13-grid.md
+           Reading: _posts/design/2014-09-14-video.md
+           Reading: _posts/design/2014-09-15-gallery.md
+           Reading: _posts/design/2014-10-08-header-image-pattern.md
+           Reading: _posts/design/2014-10-09-header-full-width-image.md
+           Reading: _posts/design/2014-10-09-header-image-color.md
+           Reading: _posts/design/2014-10-09-header-logo-only.md
+           Reading: _posts/design/2015-02-10-header-with-text.md
+           Reading: _posts/design/2015-03-12-no-header-but-image.md
+           Reading: _posts/design/2015-08-11-no-header.md
+           Reading: _posts/design/2015-08-15-comments.md
+           Reading: _posts/design/2015-08-16-typography.md
+           Reading: _posts/design/2015-10-15-mediaelement_js.md
+           Reading: _posts/design/2018-04-15-Fanatic-No-More.md
+        Generating: Jekyll::AsciiDoc::Integrator finished in 0.068 seconds.
+        Generating: JekyllOptionalFrontMatter::Generator finished in 0.0 seconds.
+        Generating: JekyllReadmeIndex::Generator finished in 0.0 seconds.
+        Generating: JekyllRelativeLinks::Generator finished in 0.010001 seconds.
+        Generating: Jekyll::JekyllSitemap finished in 0.001975 seconds.
+        Generating: JekyllDefaultLayout::Generator finished in 0.003024 seconds.
+        Generating: JekyllTitlesFromHeadings::Generator finished in 0.0 seconds.
+        Generating: Jekyll::Paginate::Pagination finished in 0.009001 seconds.
+         Rendering: _posts/design/2014-07-09-post-left-sidebar.md
+  Pre-Render Hooks: _posts/design/2014-07-09-post-left-sidebar.md
+  Rendering Liquid: _posts/design/2014-07-09-post-left-sidebar.md
+  Rendering Markup: _posts/design/2014-07-09-post-left-sidebar.md
+  Rendering Layout: _posts/design/2014-07-09-post-left-sidebar.md
+         Rendering: _posts/design/2014-07-10-breadcrumb.md
+  Pre-Render Hooks: _posts/design/2014-07-10-breadcrumb.md
+  Rendering Liquid: _posts/design/2014-07-10-breadcrumb.md
+  Rendering Markup: _posts/design/2014-07-10-breadcrumb.md
+  Rendering Layout: _posts/design/2014-07-10-breadcrumb.md
+         Rendering: _posts/design/2014-07-10-page.md
+  Pre-Render Hooks: _posts/design/2014-07-10-page.md
+  Rendering Liquid: _posts/design/2014-07-10-page.md
+  Rendering Markup: _posts/design/2014-07-10-page.md
+  Rendering Layout: _posts/design/2014-07-10-page.md
+         Rendering: _posts/design/2014-07-10-post-right-sidebar.md
+  Pre-Render Hooks: _posts/design/2014-07-10-post-right-sidebar.md
+  Rendering Liquid: _posts/design/2014-07-10-post-right-sidebar.md
+  Rendering Markup: _posts/design/2014-07-10-post-right-sidebar.md
+  Rendering Layout: _posts/design/2014-07-10-post-right-sidebar.md
+         Rendering: _posts/design/2014-08-19-page-fullwidth.md
+  Pre-Render Hooks: _posts/design/2014-08-19-page-fullwidth.md
+  Rendering Liquid: _posts/design/2014-08-19-page-fullwidth.md
+  Rendering Markup: _posts/design/2014-08-19-page-fullwidth.md
+  Rendering Layout: _posts/design/2014-08-19-page-fullwidth.md
+         Rendering: _posts/design/2014-09-10-portfolio.md
+  Pre-Render Hooks: _posts/design/2014-09-10-portfolio.md
+  Rendering Liquid: _posts/design/2014-09-10-portfolio.md
+  Rendering Markup: _posts/design/2014-09-10-portfolio.md
+  Rendering Layout: _posts/design/2014-09-10-portfolio.md
+         Rendering: _posts/design/2014-09-13-grid.md
+  Pre-Render Hooks: _posts/design/2014-09-13-grid.md
+  Rendering Liquid: _posts/design/2014-09-13-grid.md
+  Rendering Markup: _posts/design/2014-09-13-grid.md
+  Rendering Layout: _posts/design/2014-09-13-grid.md
+         Rendering: _posts/design/2014-09-14-video.md
+  Pre-Render Hooks: _posts/design/2014-09-14-video.md
+  Rendering Liquid: _posts/design/2014-09-14-video.md
+  Rendering Markup: _posts/design/2014-09-14-video.md
+  Rendering Layout: _posts/design/2014-09-14-video.md
+         Rendering: _posts/design/2014-09-15-gallery.md
+  Pre-Render Hooks: _posts/design/2014-09-15-gallery.md
+  Rendering Liquid: _posts/design/2014-09-15-gallery.md
+  Rendering Markup: _posts/design/2014-09-15-gallery.md
+  Rendering Layout: _posts/design/2014-09-15-gallery.md
+         Rendering: _posts/design/2014-10-08-header-image-pattern.md
+  Pre-Render Hooks: _posts/design/2014-10-08-header-image-pattern.md
+  Rendering Liquid: _posts/design/2014-10-08-header-image-pattern.md
+  Rendering Markup: _posts/design/2014-10-08-header-image-pattern.md
+  Rendering Layout: _posts/design/2014-10-08-header-image-pattern.md
+         Rendering: _posts/design/2014-10-09-header-full-width-image.md
+  Pre-Render Hooks: _posts/design/2014-10-09-header-full-width-image.md
+  Rendering Liquid: _posts/design/2014-10-09-header-full-width-image.md
+  Rendering Markup: _posts/design/2014-10-09-header-full-width-image.md
+  Rendering Layout: _posts/design/2014-10-09-header-full-width-image.md
+         Rendering: _posts/design/2014-10-09-header-image-color.md
+  Pre-Render Hooks: _posts/design/2014-10-09-header-image-color.md
+  Rendering Liquid: _posts/design/2014-10-09-header-image-color.md
+  Rendering Markup: _posts/design/2014-10-09-header-image-color.md
+  Rendering Layout: _posts/design/2014-10-09-header-image-color.md
+         Rendering: _posts/design/2014-10-09-header-logo-only.md
+  Pre-Render Hooks: _posts/design/2014-10-09-header-logo-only.md
+  Rendering Liquid: _posts/design/2014-10-09-header-logo-only.md
+  Rendering Markup: _posts/design/2014-10-09-header-logo-only.md
+  Rendering Layout: _posts/design/2014-10-09-header-logo-only.md
+         Rendering: _posts/design/2015-02-10-header-with-text.md
+  Pre-Render Hooks: _posts/design/2015-02-10-header-with-text.md
+  Rendering Liquid: _posts/design/2015-02-10-header-with-text.md
+  Rendering Markup: _posts/design/2015-02-10-header-with-text.md
+  Rendering Layout: _posts/design/2015-02-10-header-with-text.md
+         Rendering: _posts/design/2015-03-12-no-header-but-image.md
+  Pre-Render Hooks: _posts/design/2015-03-12-no-header-but-image.md
+  Rendering Liquid: _posts/design/2015-03-12-no-header-but-image.md
+  Rendering Markup: _posts/design/2015-03-12-no-header-but-image.md
+  Rendering Layout: _posts/design/2015-03-12-no-header-but-image.md
+         Rendering: _posts/design/2015-08-11-no-header.md
+  Pre-Render Hooks: _posts/design/2015-08-11-no-header.md
+  Rendering Liquid: _posts/design/2015-08-11-no-header.md
+  Rendering Markup: _posts/design/2015-08-11-no-header.md
+  Rendering Layout: _posts/design/2015-08-11-no-header.md
+         Rendering: _posts/design/2015-08-15-comments.md
+  Pre-Render Hooks: _posts/design/2015-08-15-comments.md
+  Rendering Liquid: _posts/design/2015-08-15-comments.md
+  Rendering Markup: _posts/design/2015-08-15-comments.md
+  Rendering Layout: _posts/design/2015-08-15-comments.md
+         Rendering: _posts/design/2015-08-16-typography.md
+  Pre-Render Hooks: _posts/design/2015-08-16-typography.md
+  Rendering Liquid: _posts/design/2015-08-16-typography.md
+  Rendering Markup: _posts/design/2015-08-16-typography.md
+  Rendering Layout: _posts/design/2015-08-16-typography.md
+         Rendering: _posts/design/2015-10-15-mediaelement_js.md
+  Pre-Render Hooks: _posts/design/2015-10-15-mediaelement_js.md
+  Rendering Liquid: _posts/design/2015-10-15-mediaelement_js.md
+  Rendering Markup: _posts/design/2015-10-15-mediaelement_js.md
+  Rendering Layout: _posts/design/2015-10-15-mediaelement_js.md
+         Rendering: _posts/design/2018-04-15-Fanatic-No-More.md
+  Pre-Render Hooks: _posts/design/2018-04-15-Fanatic-No-More.md
+  Rendering Liquid: _posts/design/2018-04-15-Fanatic-No-More.md
+  Rendering Markup: _posts/design/2018-04-15-Fanatic-No-More.md
+  Rendering Layout: _posts/design/2018-04-15-Fanatic-No-More.md
+         Rendering: pages/pages-root-folder/404.md
+  Pre-Render Hooks: pages/pages-root-folder/404.md
+  Rendering Liquid: pages/pages-root-folder/404.md
+  Rendering Markup: pages/pages-root-folder/404.md
+  Rendering Layout: pages/pages-root-folder/404.md
+         Rendering: blog/archive.html
+  Pre-Render Hooks: blog/archive.html
+  Rendering Liquid: blog/archive.html
+  Rendering Markup: blog/archive.html
+  Rendering Layout: blog/archive.html
+         Rendering: assets/css/atom.scss
+  Pre-Render Hooks: assets/css/atom.scss
+  Rendering Liquid: assets/css/atom.scss
+  Rendering Markup: assets/css/atom.scss
+         Rendering: pages/pages-root-folder/atom.xml
+  Pre-Render Hooks: pages/pages-root-folder/atom.xml
+  Rendering Liquid: pages/pages-root-folder/atom.xml
+  Rendering Markup: pages/pages-root-folder/atom.xml
+  Rendering Layout: pages/pages-root-folder/atom.xml
+         Rendering: assets/xslt/atom.xslt
+  Pre-Render Hooks: assets/xslt/atom.xslt
+  Rendering Liquid: assets/xslt/atom.xslt
+  Rendering Markup: assets/xslt/atom.xslt
+  Rendering Layout: assets/xslt/atom.xslt
+         Rendering: pages/changelog.md
+  Pre-Render Hooks: pages/changelog.md
+  Rendering Liquid: pages/changelog.md
+  Rendering Markup: pages/changelog.md
+  Rendering Layout: pages/changelog.md
+         Rendering: pages/contact.md
+  Pre-Render Hooks: pages/contact.md
+  Rendering Liquid: pages/contact.md
+  Rendering Markup: pages/contact.md
+  Rendering Layout: pages/contact.md
+         Rendering: pages/design.md
+  Pre-Render Hooks: pages/design.md
+  Rendering Liquid: pages/design.md
+  Rendering Markup: pages/design.md
+  Rendering Layout: pages/design.md
+         Rendering: pages/documentation.md
+  Pre-Render Hooks: pages/documentation.md
+  Rendering Liquid: pages/documentation.md
+  Rendering Markup: pages/documentation.md
+  Rendering Layout: pages/documentation.md
+         Rendering: pages/pages-root-folder/feed.xml
+  Pre-Render Hooks: pages/pages-root-folder/feed.xml
+  Rendering Liquid: pages/pages-root-folder/feed.xml
+  Rendering Markup: pages/pages-root-folder/feed.xml
+  Rendering Layout: pages/pages-root-folder/feed.xml
+         Rendering: pages/getting-started.md
+  Pre-Render Hooks: pages/getting-started.md
+  Rendering Liquid: pages/getting-started.md
+  Rendering Markup: pages/getting-started.md
+  Rendering Layout: pages/getting-started.md
+         Rendering: pages/headers.md
+  Pre-Render Hooks: pages/headers.md
+  Rendering Liquid: pages/headers.md
+  Rendering Markup: pages/headers.md
+  Rendering Layout: pages/headers.md
+         Rendering: pages/pages-root-folder/humans.txt
+  Pre-Render Hooks: pages/pages-root-folder/humans.txt
+  Rendering Liquid: pages/pages-root-folder/humans.txt
+  Rendering Markup: pages/pages-root-folder/humans.txt
+  Rendering Layout: pages/pages-root-folder/humans.txt
+         Rendering: blog/index.html
+  Pre-Render Hooks: blog/index.html
+  Rendering Liquid: blog/index.html
+  Rendering Markup: blog/index.html
+  Rendering Layout: blog/index.html
+         Rendering: pages/pages-root-folder/index.md
+  Pre-Render Hooks: pages/pages-root-folder/index.md
+  Rendering Liquid: pages/pages-root-folder/index.md
+  Rendering Markup: pages/pages-root-folder/index.md
+  Rendering Layout: pages/pages-root-folder/index.md
+         Rendering: pages/info.md
+  Pre-Render Hooks: pages/info.md
+  Rendering Liquid: pages/info.md
+  Rendering Markup: pages/info.md
+  Rendering Layout: pages/info.md
+         Rendering: pages/redirected_page.md
+  Pre-Render Hooks: pages/redirected_page.md
+  Rendering Liquid: pages/redirected_page.md
+  Rendering Markup: pages/redirected_page.md
+  Rendering Layout: pages/redirected_page.md
+         Rendering: pages/roadmap.md
+  Pre-Render Hooks: pages/roadmap.md
+  Rendering Liquid: pages/roadmap.md
+  Rendering Markup: pages/roadmap.md
+  Rendering Layout: pages/roadmap.md
+         Rendering: pages/pages-root-folder/robots.txt
+  Pre-Render Hooks: pages/pages-root-folder/robots.txt
+  Rendering Liquid: pages/pages-root-folder/robots.txt
+  Rendering Markup: pages/pages-root-folder/robots.txt
+  Rendering Layout: pages/pages-root-folder/robots.txt
+         Rendering: assets/css/rss.scss
+  Pre-Render Hooks: assets/css/rss.scss
+  Rendering Liquid: assets/css/rss.scss
+  Rendering Markup: assets/css/rss.scss
+         Rendering: assets/xslt/rss.xslt
+  Pre-Render Hooks: assets/xslt/rss.xslt
+  Rendering Liquid: assets/xslt/rss.xslt
+  Rendering Markup: assets/xslt/rss.xslt
+  Rendering Layout: assets/xslt/rss.xslt
+         Rendering: pages/search.md
+  Pre-Render Hooks: pages/search.md
+  Rendering Liquid: pages/search.md
+  Rendering Markup: pages/search.md
+  Rendering Layout: pages/search.md
+         Rendering: pages/pages-root-folder/sitemap.xml
+  Pre-Render Hooks: pages/pages-root-folder/sitemap.xml
+  Rendering Liquid: pages/pages-root-folder/sitemap.xml
+  Rendering Markup: pages/pages-root-folder/sitemap.xml
+  Rendering Layout: pages/pages-root-folder/sitemap.xml
+         Rendering: assets/css/styles_feeling_responsive.scss
+  Pre-Render Hooks: assets/css/styles_feeling_responsive.scss
+  Rendering Liquid: assets/css/styles_feeling_responsive.scss
+  Rendering Markup: assets/css/styles_feeling_responsive.scss
+         Rendering: assets/css/style.scss
+  Pre-Render Hooks: assets/css/style.scss
+  Rendering Liquid: assets/css/style.scss
+  Rendering Markup: assets/css/style.scss
+         Rendering: sitemap.xml
+  Pre-Render Hooks: sitemap.xml
+  Rendering Liquid: sitemap.xml
+  Rendering Markup: sitemap.xml
+  Rendering Layout: sitemap.xml
+         Rendering: robots.txt
+  Pre-Render Hooks: robots.txt
+  Rendering Liquid: robots.txt
+  Rendering Markup: robots.txt
+  Rendering Layout: robots.txt
+         Rendering: blog/page:nu/index.html
+  Pre-Render Hooks: blog/page:nu/index.html
+  Rendering Liquid: blog/page:nu/index.html
+  Rendering Markup: blog/page:nu/index.html
+  Rendering Layout: blog/page:nu/index.html
+         Rendering: blog/page:nu/index.html
+  Pre-Render Hooks: blog/page:nu/index.html
+  Rendering Liquid: blog/page:nu/index.html
+  Rendering Markup: blog/page:nu/index.html
+  Rendering Layout: blog/page:nu/index.html
+         Rendering: blog/page:nu/index.html
+  Pre-Render Hooks: blog/page:nu/index.html
+  Rendering Liquid: blog/page:nu/index.html
+  Rendering Markup: blog/page:nu/index.html
+  Rendering Layout: blog/page:nu/index.html
+jekyll 3.7.3 | Error:  Not a directory @ dir_s_mkdir - C:/Users/david/OneDrive/Projects/GitHub/davidprush.github.io/_site/blog/page:nu

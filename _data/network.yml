@@ -1,0 +1,21 @@
+- menu_name: "Optionals"
+
+- name: "Icons by..."
+  url: "http://google.com/"
+  class: "network-entypo"
+  title: "Icons by..."
+
+- name: "Built on Foundation"
+  url: "http://google.com/"
+  class: "services-newsletter"
+  title: "Built on..."
+
+- name: "Images by..."
+  url: "http://google.com/"
+  class: "rss-link"
+  title: "Images by..."
+
+- name: "Using Backstretch..."
+  url: "http://google.com/"
+  class: "sitemap-link"
+  title: "Using Backstretch..."

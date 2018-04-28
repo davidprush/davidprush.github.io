@@ -1,0 +1,109 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Next
+  url: "/getting-started/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
+
+# - title: "Templates"
+#   url: "/help/design/"
+#   side: left
+#   dropdown:
+#   - title: "Grid & Colors"
+#     url: "/help/design/grid/"
+#   - title: "Typography"
+#     url: "/help/design/typography/typography/"
+#   - title: "Page/Post"
+#     url: "/help/design/page/"
+#   - title: "Post-Left-Sidebar"
+#     url: "/help/design/post-left-sidebar/"
+#   - title: "Post-Right-Sidebar"
+#     url: "/help/design/post-right-sidebar/"
+#   - title: "Page Full-Width"
+#     url: "/help/design/page-fullwidth/"
+#   - title: "Blog-Page"
+#     url: "/blog/"
+#   - title: "Video"
+#     url: "/help/design/video/"
+#   - title: "Gallery"
+#     url: "/help/design/gallery/"
+#   - title: "Portfolio"
+#     url: "/help/design/portfolio/"
+
+# - title: "Header Styles"
+#   url: "/headers/"
+#   side: left
+#   dropdown:
+#   - title: "Header with Full-Width-Image"
+#     url: "/help/design/header-full-width-image/"
+#   - title: "Header with Image and Pattern"
+#     url: "/help/design/header-image-pattern/"
+#   - title: "Header with image and color"
+#     url: "/help/design/header-image-color/"
+#   - title: "Header Only With Logo"
+#     url: "/help/design/header-logo-only/"
+#   - title: "Header With Text"
+#     url: "/help/design/header-with-text/"
+#   - title: "No Header"
+#     url: "/help/design/no-header/"
+#   - title: "No Header but Image"
+#     url: "/help/design/no-header-but-image/"
+
+# - title: Documentation
+#   url: "/documentation/"
+#   side: left
+#   dropdown:
+#   - title: "Changelog"
+#     url: "/changelog/"
+#   - title: "Roadmap"
+#     url: "/roadmap/"
+  # - title: "Header with Full-Width-Image"
+  #   url: "/help/design/header-full-width-image/"
+  # - title: "Header with Image and Pattern"
+  #   url: "/help/design/header-image-pattern/"
+  # - title: "Header with image and color"
+  #   url: "/help/design/header-image-color/"
+  # - title: "Header Only With Logo"
+  #   url: "/help/design/header-logo-only/"
+  # - title: "Header With Text"
+  #   url: "/help/design/header-with-text/"
+  # - title: "No Header"
+  #   url: "/help/design/no-header/"
+  # - title: "No Header but Image"
+  #   url: "/help/design/no-header-but-image/"
+  # - title: "Grid & Colors"
+  #   url: "/help/design/grid/"
+  # - title: "Typography"
+  #   url: "/help/design/typography/typography/"
+  # - title: "Page/Post"
+  #   url: "/help/design/page/"
+  # - title: "Post-Left-Sidebar"
+  #   url: "/help/design/post-left-sidebar/"
+  # - title: "Post-Right-Sidebar"
+  #   url: "/help/design/post-right-sidebar/"
+  # - title: "Page Full-Width"
+  #   url: "/help/design/page-fullwidth/"
+  # - title: "Blog-Page"
+  #   url: "/blog/"
+  # - title: "Video"
+  #   url: "/help/design/video/"
+  # - title: "Gallery"
+  #   url: "/help/design/gallery/"
+  # - title: "Portfolio"
+  #   url: "/help/design/portfolio/"
