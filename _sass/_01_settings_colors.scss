@@ -16,20 +16,37 @@
 /* Basics
 ------------------------------------------------------------------- */
 
+<<<<<<< HEAD
 $text-color:       	rgb(1, 12, 17);
 $body-font-color: 	$text-color;
 $body-bg: 			rgb(245, 245, 245);
+=======
+$text-color:       	#111;
+$body-font-color: 	$text-color;
+$body-bg: 			#fdfdfd;
+
+
+>>>>>>> origin/gh-pages
 
 /* Corporate Identity Colorpalette
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
+<<<<<<< HEAD
 $ci-1: rgb(0, 84, 153);		// dark turquoise
 $ci-2: rgb(255, 255, 255);		// turquoise
 $ci-3: rgb(251, 255, 202);		// yellow
 $ci-4: rgb(250, 180, 100);		// orange
 $ci-5: rgb(221, 54, 54);		// red
 $ci-6: rgb(218, 228, 233);     // green
+=======
+$ci-1: #334D5C;		// dark turquoise
+$ci-2: #45B29D;		// turquoise
+$ci-3: #EFC94C;		// yellow
+$ci-4: #E27A3F;		// orange
+$ci-5: #DF4949;		// red
+$ci-6: #A1D044;     // green
+>>>>>>> origin/gh-pages
 
 
 
