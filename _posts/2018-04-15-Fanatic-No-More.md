@@ -8,7 +8,7 @@ tags:
     - post format
 header:
     title: Fanatic No More
-    background-color: "rgb(78, 114, 168);"
+    background-color: "#1f2f44;"
     # pattern: pattern_concrete.jpg
     image_fullwidth: linux_microsoft.png
     thumb: /assets/img/apple-touch-icon-precomposed.png

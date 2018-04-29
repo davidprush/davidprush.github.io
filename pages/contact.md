@@ -3,10 +3,10 @@ layout: page
 title: "Contact"
 meta_title: "Contact Info & Form"
 subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
----
-
+header:
+    title: Contact me...
+    background-color: "#1f2f44;"
 <iframe height="750"
         allowTransparency="true"
         frameborder="0"
