@@ -260,7 +260,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
               // $color - icon color
               // $hover-color - icon color during hover, here it isn't set b/c it would override $topbar-menu-icon-color-toggled
               // $offcanvas - Set to false of @include in topbar
-              @include hamburger(16px, false, 0, 1px, 6px, $topbar-menu-icon-color, "", false);
+              @include hamburger(22px, false, 0, 1px, 6px, $topbar-menu-icon-color, "", false);
             }
           }
         }
