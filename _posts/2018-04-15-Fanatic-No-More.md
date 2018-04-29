@@ -8,7 +8,7 @@ tags:
     - post format
 header:
     title: Fanatic No More
-    background-color: "#1f2f44;"
+    # background-color: "#1f2f44;"
     # pattern: pattern_concrete.jpg
     image_fullwidth: linux_microsoft.png
     thumb: /assets/img/apple-touch-icon-precomposed.png
@@ -18,6 +18,7 @@ footer:
     mediaplayer: false
 ---
 <!--more-->
+
 
 ## Linux Fanatic Turned Windows pragmatist
 

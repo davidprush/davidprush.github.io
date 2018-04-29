@@ -4,8 +4,12 @@ layout: page
 title: "Search"
 sitemap: false
 header:
-    title: Search site...
-    background-color: "#1f2f44;"
+    title: Search
+    # background-color: "#1f2f44;"
+    # caption_url: /
+footer:
+    mediaplayer: false
 ---
+<!--more-->
 
 {% include _google_search.html %}
