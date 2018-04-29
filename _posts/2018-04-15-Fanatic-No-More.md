@@ -15,11 +15,8 @@ header:
     thumb: /assets/img/apple-touch-icon-precomposed.png
     caption: If at first you don't succeed, try again...
     # caption_url: /
-<<<<<<< HEAD
 footer:
     mediaplayer: false
-=======
->>>>>>> origin/gh-pages
 ---
 <!--more-->
 
