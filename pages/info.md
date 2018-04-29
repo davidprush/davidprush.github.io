@@ -14,6 +14,7 @@ So I'll give this [Jekyll][1] thing a try and see what I can with it...
 
 I don't have a target audience for this blog but I plan on writing about projects I'm working on and stuff I find interesting. I usually tweet about information technology, open source software, Linux, and digital rights and you can follow me [@davidprush][6]. I work for the United States Air Force as an avionics technician; I plan on continuing my military career until 2026. After I retire from military I plan pursuing a career in software engineering. My interest in computer programming started in [early grade school][7] and progressed from AP Computer Science to attending the University of Pittsbugrh for Information Science. For some reason a computer science degree was not something I seriously considered--maybe it was the advanced math. Nonetheless, my love for computers--especially Linux--continued to evolve and still provides a meaningful experience for me today.
 
+***
 
 ## Current Interests:
 
@@ -28,9 +29,9 @@ I don't have a target audience for this blog but I plan on writing about project
 
 ## My main curiosities are open source software and programming...
 
+{% include alert text="I think open source source software is the greatest technological advancement." %}
 
-*I think open source source software is the greatest technological advancement.*
-
+***
 
 ## Technical skills developed over the years:
 
@@ -39,6 +40,7 @@ I don't have a target audience for this blog but I plan on writing about project
 * Familiar with web servers and networking
 * Honorable mention...Microsoft Office & application integration
 
+***
 
 ### Contact Info
 Have questions or suggestions? Feel free to [email me][14] or [ask me on Twitter][6].
