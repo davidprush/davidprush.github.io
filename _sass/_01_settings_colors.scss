@@ -26,10 +26,10 @@ $body-bg: rgb(43, 43, 43);
 
 $ci-1: rgb(68, 68, 68); // dark turquoise
 $ci-2: rgb(65, 185, 255); // turquoise
-$ci-3: rgb(251, 255, 202); // yellow
-$ci-4: rgb(255, 210, 158); // orange
-$ci-5: rgb(66, 45, 45); // red
-$ci-6: rgb(51, 187, 255); // green
+$ci-3: #f0e68c; // yellow
+$ci-4: #ffcc00; // orange
+$ci-5: #ae0a0a; // red
+$ci-6: #33bbff; // green
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
@@ -44,8 +44,8 @@ $info-color: $ci-1;
 /* Grey Scale
 ------------------------------------------------------------------- */
 
-$grey-1: #E4E4E4;
-$grey-2: #D7D7D7;
+$grey-1: rgb(31, 51, 70);
+$grey-2: rgb(140, 60, 231);
 $grey-3: #CBCBCB;
 $grey-4: #BEBEBE;
 $grey-5: #A4A4A4;
@@ -53,7 +53,7 @@ $grey-6: #7e7e7e;
 $grey-7: #8B8B8B;
 $grey-8: #1f2f44;
 $grey-9: #646464;
-$grey-10: #575757;
+$grey-10: #d3c8c8;
 $grey-11: #4B4B4B;
 $grey-12: #3E3E3E;
 $grey-13: #011330;
@@ -67,10 +67,10 @@ $grey-16: #0B0B0B;
 $topbar-bg-color: $body-bg;
 $topbar-bg: $topbar-bg-color;
 $topbar-dropdown-toggle-color: $ci-1;
-$topbar-link-color: #000;
-$topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
-$topbar-link-color-active-hover: #000;
+$topbar-link-color: rgb(195, 222, 247);
+$topbar-link-color-hover: rgb(47, 0, 75);
+$topbar-link-color-active: rgb(89, 0, 172);
+$topbar-link-color-active-hover: rgb(147, 80, 255);
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-6;
 $topbar-link-bg-active: $ci-6; // Active Navigation Link
