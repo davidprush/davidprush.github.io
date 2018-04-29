@@ -8,15 +8,16 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 <!--more-->
+
 So I'll give this [Jekyll][1] thing a try and see what I can with it...
 
 {% include alert info="Welcome, I hope to use this space to express my thoughts, concerns, and opinions about everything and anything related to technology. If you don't care for what I might have to say...great, move on. I don't want to waste anyone's time." %}
 
 I don't have a target audience for this blog but I plan on writing about projects I'm working on and stuff I find interesting. I usually tweet about information technology, open source software, Linux, and digital rights and you can follow me [@davidprush][6]. I work for the United States Air Force as an avionics technician; I plan on continuing my military career until 2026. After I retire from military I plan pursuing a career in software engineering. My interest in computer programming started in [early grade school][7] and progressed from AP Computer Science to attending the University of Pittsbugrh for Information Science. For some reason a computer science degree was not something I seriously considered--maybe it was the advanced math. Nonetheless, my love for computers--especially Linux--continued to evolve and still provides a meaningful experience for me today.
 
-***
 
 ## Current Interests:
+
 
 * [Jekyll & Web development][1]
 * [Windows Subsystem for Linux][2]
@@ -24,25 +25,34 @@ I don't have a target audience for this blog but I plan on writing about project
 * [Listening to Podcasts][4]
 * [Reading this right now][5]
 
+
  <hr> <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B004P1JDJO&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_iX72AbVYPQYH8" ></iframe> <p>Drive provides a compelling case for what motivates people.</p>
+
 
 
 ## My main curiosities are open source software and programming...
 
-{% include alert text="I think open source source software is the greatest technological advancement." %}
 
-***
+
+
+{% include alert text="I firmly believe that without open source software the internet and technology would not be as advanced as it is today." %}
+
+
+
 
 ## Technical skills developed over the years:
+
 
 * Master Distro-Hopper
 * Amateur programmer: VBA, Python, C++, Bash scripting, and now working on Ruby
 * Familiar with web servers and networking
 * Honorable mention...Microsoft Office & application integration
 
-***
+
+
 
 ### Contact Info
+
 Have questions or suggestions? Feel free to [email me][14] or [ask me on Twitter][6].
 
 

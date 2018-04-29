@@ -16,7 +16,7 @@
 /* Basics
 ------------------------------------------------------------------- */
 
-$text-color: #f1fbff;
+$text-color: #ececec;
 $body-font-color: $text-color;
 $body-bg: #2b2b2b;
 
@@ -40,6 +40,7 @@ $alert-color: $ci-5;
 $success-color: $ci-6;
 $warning-color: $ci-4;
 $info-color: $ci-1;
+$breadcrumbs-color: ci-2;
 
 /* Grey Scale
 ------------------------------------------------------------------- */
@@ -60,6 +61,7 @@ $grey-13: #011330;
 $grey-14: #242424;
 $grey-15: #171717;
 $grey-16: #0B0B0B;
+$grey-17: #171717;
 
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
@@ -100,11 +102,11 @@ $subfooter-link-color: $grey-8;
 ------------------------------------------------------------------- */
 
 $code-background-color: scale-color($secondary-color, $lightness: 70%);
-$highlight-background: #ffffff;
+$highlight-background: #2b2b2b;
 $highlight-comment: #999988;
 $highlight-error: #a61717;
 $highlight-comment-special: #999999;
-$highlight-deleted: #000000;
+$highlight-deleted: #353535;
 $highlight-error-2: #aa0000;
 $highlight-literal-string: #d14;
 $highlight-literal-number: #009999;
@@ -114,17 +116,17 @@ $highlight-generic-deleted: #ffdddd;
 $highlight-generic-deleted-specific: #ffaaaa;
 $highlight-generic-inserted: #ddffdd;
 $highlight-generic-inserted-specific: #aaffaa;
-$highlight-generic-output: #888888;
-$highlight-generic-prompt: #555555;
+$highlight-generic-output: #aaa7a7;
+$highlight-generic-prompt: #9c9c9c;
 $highlight-subheading: #aaaaaa;
-$highlight-keyword-type: #445588;
+$highlight-keyword-type: #66acee;
 $highlight-name-builtin: #0086B3;
-$highlight-name-class: #445588;
-$highlight-name-entity: #800080;
-$highlight-name-exception: #990000;
-$highlight-name-function: #990000;
-$highlight-name-namespace: #555555;
-$highlight-name-tag: #000080;
-$highlight-text-whitespace: #bbbbbb;
+$highlight-name-class: #738fe4;
+$highlight-name-entity: #e202e2;
+$highlight-name-exception: #ca2c2c;
+$highlight-name-function: #fd0f0f;
+$highlight-name-namespace: #8d8989;
+$highlight-name-tag: #207ac4;
+$highlight-text-whitespace: #dbd9d9;
 $highlight-literal-string-regex: #009926;
-$highlight-literal-string-symbol: #990073;
+$highlight-literal-string-symbol: #cc059a;
