@@ -11,15 +11,15 @@
 $include-html-accordion-classes: $include-html-classes !default;
 
 $accordion-navigation-padding: rem-calc(16) !default;
-$accordion-navigation-bg-color: $silver !default;
-$accordion-navigation-hover-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -5%) !default;
-$accordion-navigation-active-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -3%) !default;
-$accordion-navigation-font-color: $jet !default;
+$accordion-navigation-bg-color: #444444 !default;
+$accordion-navigation-hover-bg-color: #212121; /* scale-color($accordion-navigation-bg-color, $lightness: -30%) !default; */
+$accordion-navigation-active-bg-color: #212121; /* scale-color($accordion-navigation-bg-color, $lightness: -3%) !default; */
+$accordion-navigation-font-color: #ececec !default;
 $accordion-navigation-font-size: rem-calc(16) !default;
 $accordion-navigation-font-family: $body-font-family !default;
 
 $accordion-content-padding: ($column-gutter/2) !default;
-$accordion-content-active-bg-color: $white !default;
+$accordion-content-active-bg-color: #171717 !default;
 
 
 //  Mixin: accordion-container()
@@ -29,7 +29,25 @@ $accordion-content-active-bg-color: $white !default;
 
 @mixin accordion-container() {
   @include clearfix;
-  margin-bottom: 0;
+  // margin-bottom: 0;
+  // background-color: #171717;
+  // text-shadow: 0px 0px 0px rgba(0,0,0,0.9);
+  // border-color: #141414;
+  // color: khaki;
+  font-family: $font-family-sans-serif;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.9);
+  background-color: #2b2b2b;
+  color: #fff;
+  max-width: 100%;
+  margin: 1em 0;
+  overflow-x: auto;
+  vertical-align: middle;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: inset 0 1px 10px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.1), 0 -1px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: inset 0 1px 10px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.1), 0 -1px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: inset 0 1px 10px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.1), 0 -1px 0 rgba(0, 0, 0, 0.5)
 }
 
 //  Mixin: accordion-navigation( $bg, $hover-bg, $active-bg, $padding, $active_class,  $font-color, $font-size, $font-family){

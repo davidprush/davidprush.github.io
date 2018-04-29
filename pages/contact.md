@@ -4,10 +4,6 @@ title: "Contact"
 meta_title: "Contact Info & Form"
 subheadline: "Wufoo-powered contact forms"
 permalink: "/contact/"
-header:
-    title: Contact
-    background-color: "#1f2f44;"
-    # caption_url: /
 footer:
     mediaplayer: false
 ---

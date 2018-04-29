@@ -7,12 +7,12 @@ breadcrumb: false
 tags:
     - post format
 header:
-    title: Fanatic No More
+    title: </>
     # background-color: "#1f2f44;"
     # pattern: pattern_concrete.jpg
     image_fullwidth: linux_microsoft.png
     thumb: /assets/img/apple-touch-icon-precomposed.png
-    caption: If at first you don't succeed, try again...
+    # caption: If at first you don't succeed, try again...
     # caption_url: /
 footer:
     mediaplayer: false
