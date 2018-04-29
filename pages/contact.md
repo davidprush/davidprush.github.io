@@ -7,7 +7,7 @@ teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
 
-<iframe height="581"
+<iframe height="575"
         allowTransparency="true"
         frameborder="0"
         scrolling="no"
@@ -21,4 +21,4 @@ permalink: "/contact/"
     <span class="notranslate">
         Use <a href="http://www.wufoo.com/partners/">Wufoo integrations</a> and get your data to your favorite apps.
     </span>
-</div>                          
+</div>                                                  
