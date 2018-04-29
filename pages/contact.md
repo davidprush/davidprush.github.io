@@ -6,7 +6,7 @@ subheadline: "Wufoo-powered contact forms"
 permalink: "/contact/"
 header:
     title: Contact
-    # background-color: "#1f2f44;"
+    background-color: "#1f2f44;"
     # caption_url: /
 footer:
     mediaplayer: false
