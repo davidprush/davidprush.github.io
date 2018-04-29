@@ -7,7 +7,7 @@ teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
 
-<iframe height="100%"
+<iframe height="750"
         allowTransparency="true"
         frameborder="0"
         scrolling="no"
