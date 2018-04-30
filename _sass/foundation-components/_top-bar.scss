@@ -269,9 +269,9 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       // Change things up when the top-bar is expanded
       &.expanded {
         height: auto;
-        background: transparent;
-
-        .title-area { background: $topbar-bg; }
+        background: $ham-color-bg;
+        .title-area { background: $ham-color-bg; }
+        // .title-area { background: $topbar-bg; }
 
         .toggle-topbar {
           a { color: $topbar-menu-link-color-toggled;
@@ -312,7 +312,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       }
 
       ul li {
-        background: $topbar-dropdown-bg;
+        background: $ham-color-bg;
         & > a {
           display: block;
           width: 100%;
@@ -578,7 +578,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
         .dropdown {
           #{$default-float}: 0;
           top: auto;
-          background: transparent;
+          background: top-bar-section;
           min-width: 100%;
 
           li {
