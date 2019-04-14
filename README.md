@@ -11,9 +11,7 @@ I want to share the following things:
 
 ## About me
 
-### I love to work with computers to create stuff.
-
-General interests:
+### General interests:
 
 1. Linux
 2. Programming
