@@ -24,4 +24,6 @@ I started coding before I took my first course in programming. The first class I
 
 ## I hope to let programming journey continue...
 
+### My other posts, pages, and links:
+
 [Linux Fanatic Turned Windows Pragmatist](./first_page.md) (April 13, 2019)
