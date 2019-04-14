@@ -18,12 +18,12 @@ I want to share the following things:
 3. Breaking and fixing things
 4. Learning anything that challenges the way I think
 
-### In regards to programming, I am mostly self-taught.
+### Self-taught & formal education
 
 I started coding before I took my first course in programming. The first class I took was in high school, and it used Pascal. After the Pascal intro course, I took AP Computer Science my senior year. I attended the University of Pittsburgh where I pursued a degree in Information Science. I considered Computer Science, but it was the year `2000`, and the `Information Age` was exploding because of the Internet. Nonetheless, I did not complete my degree because I felt it was not worth the money.  
 
 ### I hope to let programming journey continue...
 
-## My other posts, pages, and links:
+## Links to my stuff:
 
 [Linux Fanatic Turned Windows Pragmatist](./first_page.md) (April 13, 2019)
