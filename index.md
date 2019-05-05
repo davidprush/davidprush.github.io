@@ -26,4 +26,4 @@ I started coding before I took my first course in programming. The first class I
 
 ## Links to my stuff:
 
-[Linux Fanatic Turned Windows Pragmatist](./first_page.md) (April 13, 2019)
+[Linux Fanatic Turned Windows Pragmatist](./linux_fanatic_turned_windows_pragmatist.md) (April 13, 2019)
