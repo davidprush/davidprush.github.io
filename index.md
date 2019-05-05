@@ -1,4 +1,4 @@
-# David P. Rush @ github.io
+# David P. Rush
 
 ![Thumbnail of me](thumbnail.png)
 
