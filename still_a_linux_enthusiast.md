@@ -18,3 +18,5 @@ Windows frequently "phones home" with telemetry and information that are not alw
 I enjoy programming and tinkering with my computer and Linux provides me with greater programming flexibility. 
 
 I still love Linux, and I will update this post with more reasons and details...
+
+[HOME](./)
