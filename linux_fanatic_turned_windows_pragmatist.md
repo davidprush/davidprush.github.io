@@ -29,4 +29,4 @@ Let's face it, Linux is not going anywhere, it is undoubtedly the most prolific 
 
 On the other hand, maybe the "year of the Linux desktop" happened with Chrome OS and Windows' WSL but it's too difficult a pill to swallow. Nonetheless, Linux is not going anywhere anytime soon, but for widespread adoption of desktop Linux to occur, fragmentation and interoperability between distros require a lot of work. Linux has revolutionized and shaped the world we live in and considering it is younger (first released September 17, 1991) than Windows and Mac is genuinely phenomenal. So, just maybe, we might accept that between Microsoft and Google, the "year of the Linux desktop" already happened but we missed it because it wasn't what we expected.
 
-[back](./)
+[HOME](./)
