@@ -18,4 +18,5 @@ I am a dedicated life-long learner with interests in Linux, programming, and tec
 ## Links to my stuff:
 
 [Linux Fanatic Turned Windows Pragmatist](./linux_fanatic_turned_windows_pragmatist.md) (April 13, 2019)
+
 [Still a Linux Enthusiast](./still_a_linux_enthusiast.md) (May 12, 2019)
