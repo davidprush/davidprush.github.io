@@ -2,14 +2,9 @@
 
 ![Thumbnail of me](thumbnail.png)
 
-## Why?
-
-I want to share the following things:
-
-1. Code I have created.
-2. Thoughts about programming.
-
 ## About me
+
+I am a dedicated life-long learner with interests in Linux, programming, and technology. I believe the path I take is more important than the destination. It is in the moments of finding creative solutions to problems that I find my highest satisfaction and fulfillment. As a self-taught programming hobbyist this github.io page provides the best opportunity to share this process. Being a firm believer in altruism, I find open source software like Linux the pinnacle of advancing software technologies. I believe humanity is at its best when we openly share information and our innovations. 
 
 ### General interests:
 
@@ -17,10 +12,6 @@ I want to share the following things:
 2. Programming
 3. Breaking and fixing things
 4. Learning anything that challenges the way I think
-
-### Self-taught & formal education
-
-I started coding before I took my first course in programming. The first class I took was in high school, and it used Pascal. After the Pascal intro course, I took AP Computer Science my senior year. I attended the University of Pittsburgh where I pursued a degree in Information Science. I considered Computer Science, but it was the year `2000`, and the `Information Age` was exploding because of the Internet. Nonetheless, I did not complete my degree because I felt it was not worth the money.  
 
 #### I hope to let programming journey continue...
 
