@@ -1,6 +1,6 @@
 # Still a Linux Enthusiast
 
-Previously I wrote [Linux Fanatic Turned Windows Pragmatist] (./linux_fanatic_turned_windows_pragmatist.md), where I described how I became a pragmatic user of Windows 10. In that post, I described my history with Linux and what caused my newfound acceptance of Windows 10. Notwithstanding, Linux remains my operating system of choice. I wanted to write this post to explain why I am still a Linux enthusiast.
+Previously I wrote [Linux Fanatic Turned Windows Pragmatist](./linux_fanatic_turned_windows_pragmatist.md), where I described how I became a pragmatic user of Windows 10. In that post, I described my history with Linux and what caused my newfound acceptance of Windows 10. Notwithstanding, Linux remains my operating system of choice. I wanted to write this post to explain why I am still a Linux enthusiast.
 
 ## 1. Freedom
 Linux gives me a greater breadth of freedom in how I use my computer. There are numerous desktop environments to choose from and customization is virtually limitless. I am not speaking of the often touted cliche, "its open source so you can just change it to do what you want," because that is not realistic for even seasoned programmers. However, it is certainly more customizable than Windows or Mac OS because it is open source. 
