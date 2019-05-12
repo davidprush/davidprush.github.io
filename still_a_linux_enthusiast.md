@@ -1,3 +1,5 @@
+#Still a Linux Enthusiast
+
 Previously I wrote [Linux Fanatic Turned Windows Pragmatist] (./linux_fanatic_turned_windows_pragmatist.md), where I described how I became a pragmatic user of Windows 10. In that post, I described my history with Linux and what caused my newfound acceptance of Windows 10. Notwithstanding, Linux remains my operating system of choice. I wanted to write this post to explain why I am still a Linux enthusiast.
 
 ## 1. Freedom
