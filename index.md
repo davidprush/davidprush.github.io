@@ -1,6 +1,6 @@
-# [David P. Rush](https://davidprush.com)
+# [David P. Rush](https://github.com/davidprush)
 
-[![Thumbnail of me](thumbnail.png)](https://davidprush.com)
+[![Thumbnail of me](thumbnail.png)](https://github.com/davidprush)
 
 ## About me
 
@@ -12,6 +12,8 @@ I am a dedicated life-long learner with interests in Linux, programming, and tec
 2. Programming
 3. Breaking and fixing things
 4. Learning anything that challenges the way I think
+
+### [github.com/davidprush](https://github.com/davidprush)
 
 #### I hope to let programming journey continue...
 
