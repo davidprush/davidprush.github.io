@@ -1,6 +1,6 @@
-# David P. Rush
+# [David P. Rush](https://davidprush.com)
 
-![Thumbnail of me](thumbnail.png)
+[![Thumbnail of me](thumbnail.png)](https://davidprush.com)
 
 ## About me
 
@@ -20,3 +20,5 @@ I am a dedicated life-long learner with interests in Linux, programming, and tec
 [Linux Fanatic Turned Windows Pragmatist](./linux_fanatic_turned_windows_pragmatist.md) (April 13, 2019)
 
 [Still a Linux Enthusiast](./still_a_linux_enthusiast.md) (May 12, 2019)
+
+[Comming soon...working on epinuke!](https://github.com/davidprush/epinuke) (June 16, 2019)
