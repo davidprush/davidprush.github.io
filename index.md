@@ -23,4 +23,4 @@ I am a dedicated life-long learner with interests in Linux, programming, and tec
 
 [Still a Linux Enthusiast](./still_a_linux_enthusiast.md) (May 12, 2019)
 
-[Comming soon...working on epinuke!](https://github.com/davidprush/epinuke) (June 16, 2019)
+[Coming soon...working on epinuke!](https://github.com/davidprush/epinuke) (June 16, 2019)
