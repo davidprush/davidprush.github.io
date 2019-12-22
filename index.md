@@ -4,8 +4,6 @@
 
 ### [github.com/davidprush](https://github.com/davidprush)
 
-#### I hope to let programming journey continue...
-
 ## Links to my stuff:
 
 [Resume](./resume.md) (December 21, 2019)
