@@ -1,7 +1,8 @@
 # David Rush
-(850) 890-3498 | davidprush@gmail.com | davidprush.com | https://www.linkedin.com/in/davidprush/
+(850) 890-3498 | davidprush@gmail.com | davidprush.com | [LinkedIn](https://www.linkedin.com/in/davidprush/)
 ## Professional Summary
 Military veteran with a secret security clearance and 13 years of proven experience in the United States Air Force. Accomplished measurable results leading numerous teams of 10 to 30 personnel in a dynamic, challenging environment. Managed risk upon multiple lines to protect assets, property, and equipment valued from $1.2M to $3.3B, while exceeding the expectations of senior leadership. Recipient of multiple awards for outstanding performance and professionalism. 
+
 Areas of expertise include mentorship, training, team building, budget development and forecasting, facility and asset protection, process and standards improvement, data analysis, Microsoft Office Suite.
 ## Experience
 ### UNITED STATES AIR FORCE 	2006-2019
