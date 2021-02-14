@@ -52,7 +52,11 @@ Inspected, operated, and maintained aircraft avionics and environmental systems,
 •	Displayed solid commitment and loyalty to the organization, often working overtime as needed.
 
 ## Education
-### Bachelors | Enrolled (102/120 Credits) | American Military University
+### Masters | Expected 2023 | Liberty University
+
+•	Masters of Science in Information Systems (M.S.I.S.) Technology Management
+
+### Bachelors | Magna Cum Laude 2020 | American Military University
 
 •	Major: Information Technology Management
 
