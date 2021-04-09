@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ## Blogs, Posts, Articles, & Stuff I'm thinking about...
 <ul>
