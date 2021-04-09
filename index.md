@@ -1,17 +1,17 @@
 ---
 layout: default
 ---
-### Welcome...
-
 ![Branching](/assets/images/banner-img.png)
 
 [Link to another page](./another-page.html).
 
-# Header 1
-<img src="/assets/images/thumbnail.png" width="100" height="100"/>
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Welcome to the website of David P. Rush...
 
-### Blogs, Posts, Articles, & Stuff I'm thinking about...
+<img src="/assets/images/thumbnail.png" width="100" height="100"/>
+
+This is a simple website where I post things I am thinking about.
+
+## Blogs, Posts, Articles, & Stuff I'm thinking about...
 <ul>
     {% for post in site.posts %}
     <li>
