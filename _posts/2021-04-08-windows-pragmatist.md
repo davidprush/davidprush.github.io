@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linux Fanatic Turned Windows Pragmatist
+title: Windows Pragmatist
 description: 
 ---
 # Linux Fanatic Turned Windows Pragmatist 
