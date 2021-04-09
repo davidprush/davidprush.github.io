@@ -1,6 +1,10 @@
 ### Site info:
 title: David Rush
-tagline: Another Jekyll theme, Freshman twenty-first
+tagline: |
+  "...success, like happiness, cannot be pursued; it must ensue
+  ...as the unintended side-effect of one's personal dedication
+  to a course greater than oneself." <br />
+  -- Mihaly Csikszentmihalyi, Flow: The Psychology of Optimal Experience
 author: David Rush
 email: davidprush@gmail.com
 description: "David Rush is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
