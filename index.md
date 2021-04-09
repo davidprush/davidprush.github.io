@@ -16,6 +16,7 @@ This is a simple website where I post things I am thinking about.
     {% for post in site.posts %}
     <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
+        {{ post.excerpt }}
     </li>
     {% endfor %}
 </ul>
