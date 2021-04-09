@@ -1,3 +1,2 @@
-[![Thumbnail of me](assets/images/thumbnail.png)](https://github.com/davidprush)
-
+<img src="assets/images/thumbnail.png" width="250 />
 ### [github.com/davidprush](https://github.com/davidprush)
