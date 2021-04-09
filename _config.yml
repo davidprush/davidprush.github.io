@@ -1,12 +1,9 @@
 title: David Rush
 description: |
-  ...success, like happiness, cannot be pursued; it must ensue
-  
-  ...as the unintended side-effect of one's personal dedication 
-  
-  to a course greater than oneself.
-  
-  ― Mihaly Csikszentmihalyi
+  - '...success, like happiness, cannot be pursued; it must ensue'
+  - '...as the unintended side-effect of one's personal dedication'
+  - 'to a course greater than oneself.'
+  ― 'Mihaly Csikszentmihalyi'
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-time-machine
