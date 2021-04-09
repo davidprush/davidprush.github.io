@@ -11,7 +11,7 @@ layout: default
 <img src="/assets/images/thumbnail.png" width="100" height="100"/>
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-```
+### Blogs, Posts, Articles, & Stuff I'm thinking about...
 <ul>
     {% for post in site.posts %}
     <li>
@@ -19,4 +19,3 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
     </li>
     {% endfor %}
 </ul>
-```
