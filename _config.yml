@@ -8,3 +8,6 @@ description: |
 show_downloads: true
 google_analytics: UA-54098633-1
 theme: jekyll-theme-midnight
+plugins: 
+  - jekyll-feed 
+  - jekyll-seo-tag.
