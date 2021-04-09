@@ -1,4 +1,5 @@
 # Still a Linux Enthusiast
+[Go Home...](https://davidprush.com)
 
 Previously I wrote [Linux Fanatic Turned Windows Pragmatist](./linux_fanatic_turned_windows_pragmatist.md), where I described how I became a pragmatic user of Windows 10. In that post, I described my history with Linux and what caused my newfound acceptance of Windows 10. Notwithstanding, Linux remains my operating system of choice. I wanted to write this post to explain why I am still a Linux enthusiast.
 
@@ -18,5 +19,5 @@ Windows frequently "phones home" with telemetry and information that are not alw
 I enjoy programming and tinkering with my computer and Linux provides me with greater programming flexibility. 
 
 I still love Linux, and I will update this post with more reasons and details...
-
-[HOME](./)
+ 
+[Go Home...](https://davidprush.com)
