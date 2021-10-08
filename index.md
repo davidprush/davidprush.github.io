@@ -7,7 +7,7 @@ layout: default
 
 # Principal of Rush Solutions LLC.
 
-<img src="/assets/images/Rush-Solutions-LLC-Logo.png" width="100" height="100"/>
+<img src="/assets/images/thumbnail.png" width="100" height="100"/>
 
 ## A qualified IT consultancy providing business-enhancing solutions for small and growth-minded businesses:
 <ul>
