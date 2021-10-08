@@ -5,7 +5,7 @@ layout: default
 
 [Link to another page](./another-page.html).
 
-# Welcome to the website of David P. Rush the owner of Rush Solutions LLC.
+# Principal of Rush Solutions LLC.
 
 <img src="/assets/images/Rush-Solutions-LLC-Logo.png" width="100" height="100"/>
 
