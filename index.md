@@ -31,6 +31,7 @@ layout: default
     </li>
 </ul>
 
+<!---
 ## Blogs, Posts, Articles, & Stuff I'm thinking about...
 <ul>
     {% for post in site.posts %}
@@ -39,3 +40,4 @@ layout: default
     </li>
     {% endfor %}
 </ul>
+--->
