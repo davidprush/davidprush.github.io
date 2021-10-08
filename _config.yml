@@ -1,6 +1,5 @@
 title: David P. Rush
-description: |
-![Branching](/assets/images/banner-img.png)
+description: <img src="/assets/images/thumbnail.png" width="100" height="100"/>
 show_downloads: true
 google_analytics: UA-54098633-1
 theme: jekyll-theme-minimal
