@@ -42,10 +42,8 @@ layout: default
 </ul>
 --->
 
-### Contact
+### Contact Rush Solutions LLC
 
-850-890-3498
+<a href="tel:850-890-3498">850-890-3498</a>
 
-<a href = "mailto: davidprush@gmail.com">Email me</a> for Rush Sollutions LLC services.
-
-Pittsburgh, Pa (Serving the greater Pittsburgh area)
+<a href = "mailto: davidprush@gmail.com">davidprush@gmail.com</a>
