@@ -46,4 +46,6 @@ layout: default
 
 850-890-3498
 
+<a href = "mailto: davidprush@gmail.com">Email me</a> for Rush Sollutions LLC services.
+
 Pittsburgh, Pa (Serving the greater Pittsburgh area)
