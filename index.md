@@ -3,7 +3,9 @@ layout: default
 ---
 ![Branching](/assets/images/banner-img.png)
 
+<!--
 [Link to another page](./another-page.html).
+--->
 
 # Principal of Rush Solutions LLC.
 
