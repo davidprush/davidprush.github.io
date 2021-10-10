@@ -1,3 +1,9 @@
+---
+layout: default
+title: Still A Linux Enthusiast
+description: 
+---
+# Still A Linux Enthusiast 
 [Go Home...](https://davidprush.com)
 
 Previously I wrote 
