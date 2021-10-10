@@ -17,10 +17,7 @@ layout: default
         Full-scale IT strategy
     </li>
     <li> 
-        IT Modernization
-    </li>
-    <li> 
-        New Technology Adoption
+        IT Modernization & New Technology Adoption
     </li>
     <li> 
         Business Process Integration
