@@ -14,7 +14,7 @@ layout: default
 ### IT consultancy providing business-enhancing solutions for small and growth-minded businesses:
 <ul>
     <li> 
-        Full-scale IT strategy
+        Full-scale IT Strategy
     </li>
     <li> 
         IT Modernization & New Technology Adoption
@@ -23,7 +23,7 @@ layout: default
         Business Process Integration
     </li>
     <li> 
-        Audit of IT Environments, Applications, and infrastructures
+        Audit of IT Environments, Applications, and Infrastructures
     </li>
     <li> 
         Increased revenue through novel digital sales channels
