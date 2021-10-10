@@ -1,4 +1,3 @@
-# Still a Linux Enthusiast
 [Go Home...](https://davidprush.com)
 
 Previously I wrote 
