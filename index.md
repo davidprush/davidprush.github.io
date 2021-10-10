@@ -11,7 +11,7 @@ layout: default
 
 <img src="/assets/images/thumbnail.png" width="100" height="100"/>
 
-### A qualified IT consultancy providing business-enhancing solutions for small and growth-minded businesses:
+### IT consultancy providing business-enhancing solutions for small and growth-minded businesses:
 <ul>
     <li> 
         Full-scale IT strategy
@@ -31,6 +31,12 @@ layout: default
     <li> 
         Increased revenue through novel digital sales channels
     </li>
+    <li> 
+        Network Setup, Maintenance Services, Data Backup & Recovery
+    </li>
+    <li> 
+        Mobile Device Management
+    </li>
 </ul>
 
 <!---
@@ -44,7 +50,7 @@ layout: default
 </ul>
 --->
 
-### Contact Rush Solutions LLC
+### Contact Rush Solutions LLC for free quotes & cost estimates
 
 <a href="tel:850-890-3498">850-890-3498</a>
 
