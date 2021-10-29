@@ -27,3 +27,5 @@ Nonetheless, the more difficult question remains: what innovative technologies b
 The answer requires differentiation from the competition and implementing technical solutions accordingly. If this were easy,
 there would be many more Apples, Microsofts, and Teslas of the world, which incessantly innovate “to escape the commodity trap.”
 But any organization should never trick itself into thinking a commodity is innovative, providing a unique competitive advantage.
+
+[Go Home...](https://davidprush.com)
