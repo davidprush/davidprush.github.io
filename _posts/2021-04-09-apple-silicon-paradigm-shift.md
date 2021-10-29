@@ -14,8 +14,6 @@ Apple has combined the following components into a single SoC: Central Processin
 
 Lots of practice...
 
-Every iPad iteration provided incremental improvements to Apple's silicon. And it started with the A7 in the iPhone 5S. So while Intel made mediocre improvements to their silicon, offering only modest speed improvements.
-
-...to be continued
+Every iPad iteration provided incremental improvements to Apple's silicon. And it started with the A7 in the iPhone 5S. So while Intel made mediocre improvements to their silicon, offering only modest speed improvements, Apple has been tirelessly ironing out a truly innovative processor.
 
 [Go Home...](https://davidprush.com)
