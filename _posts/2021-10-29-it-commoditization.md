@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Commoditization of Information Technology
+title: IT Commoditization
 description: 
 ---
-# Commoditization of Information Technology 
+# IT Commoditization 
 [Go Home...](https://davidprush.com)
 
 Commoditization of Information Technology is a double-edged sword because “it loses its uniqueness and competitive advantage.” 
