@@ -28,4 +28,6 @@ The answer requires differentiation from the competition and implementing techni
 there would be many more Apples, Microsofts, and Teslas of the world, which incessantly innovate “to escape the commodity trap.”
 But any organization should never trick itself into thinking a commodity is innovative, providing a unique competitive advantage.
 
+[Source: Examples of Commoditization](https://smallbusiness.chron.com/examples-commoditization-36973.html)
+
 [Go Home...](https://davidprush.com)
