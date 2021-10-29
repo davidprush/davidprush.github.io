@@ -3,7 +3,7 @@ layout: default
 title: Commoditization of Information Technology
 description: 
 ---
-# Still A Linux Enthusiast 
+# Commoditization of Information Technology 
 [Go Home...](https://davidprush.com)
 
 Commoditization of Information Technology is a double-edged sword because “it loses its uniqueness and competitive advantage.” 
