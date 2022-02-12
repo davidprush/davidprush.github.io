@@ -51,4 +51,4 @@ layout: default
 
 <a href="tel:850-890-3498">850-890-3498</a>
 
-<a href = "mailto: davidprush@gmail.com">davidprush@gmail.com</a>
+<a href = "mailto: david@rushsolutions.net">david@rushsolutions.net</a>
