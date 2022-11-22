@@ -24,7 +24,9 @@
 > * **Operations/Personnel/Logistics:** Managed over 18,000 maintenance actions and 80 inspections; effectively contributed to 2,000 sorties, 18K flight hours, and 914 pilot graduates
 > * **Regulation Compliance/Multi-Level Communication:** Evaluated performance, ensured operations in accordance with maintenance manuals, policies, and procedures, while maintaining a culture of teamwork and collaboration; established consistent open channels for communication and improved aircraft operational readiness 
 > * **Training and Development:** Enforced that all maintenance personnel were adequately trained and qualified to perform all assigned tasks;  recognized deserving subordinates of superior performance, resulting in formal recognition for leadership excellence
+
 ***
+
 > | **`Equivalent Civilian Title`** | _`USAF Title`_ | `City, State` | _**`Dates`**_ |
 > | :--- | :---: | :---: | ---: |
 > | **BUDGET SPECIALIST** | _Resource Advisor_ | Panama City, FL | _**May 2017 – June 2018**_ |
@@ -68,7 +70,9 @@
 > * **Troubleshooting/Maintenance:** Responsible for installing, inspecting, testing, adjusting, or repairing avionics equipment, such as radar, radio, and navigation on commercial aircraft, in compliance with policies, manuals, procedures, and requirements
 > * **Leadership: Established service and repairs grounded on high-quality craftmanship by providing strong leadership and motivation to junior mechanics and apprentices
 > * **Quality and Continuous Improvement:** Maintained constant dedication to quality and attention to detail, maximized accuracy and ensured jobs were completed the first time correctly
+
 ***
+
 ## ENTREPRENUERIAL EXPERIENCE
 > | **`RUSH SOLUTIONS LLC`** | `Pittsburgh, Pennsylvania`	|
 > | :--- | ---: |
@@ -78,17 +82,26 @@
 > * **Professional Portfolio & Development:** Created a Python program that compares a dictionary file with a text file and compiles a list of matches with frequency of occurrence https://github.com/davidprush/txtd2c
 > * **Business Analysis & IT Solutions: Evaluated business processes and systems to advise technological improvements
 > * **Professional Education:** Completed 11 e-learning courses and enhanced industry skills and knowledge: Excel VBA Process Modeling, Learning ITIL, Become a SQL Developer, SQL Data Reporting and Analysis, SQL for Data Analysis, SQL Queries Made Easy, SQL Essential Training, Programming Foundations Databases, Business Analysis for Project Managers, Project Management Technical Projects, The New Age of Risk Management Strategy for Business
+
 ***
+
 ## EDUCATION
+
 | `Type` | `Major` | `School` | `Graduation` |
 | :--- | :---: | :---: | ---: |
 | _Bachelor of Science (B.S)_ | **IT Management** | _**American Military University**_ | 2020 |
 | _Associate of Science (A.S)_ | **Avionics Systems Technology** | _**Community College of the Air Force**_ |	2014 |
+
 ***
+
 ## TECHNICAL COMPETENCIES
+
 | VBA (Visual Basic) | SQL | Python | MS Access | 
 | :---: | :---: |  :---: |  :---: | 
 | **MS Excel** | **MS Project** | **Git** | **GitHub** | 	
+
 ***
+
 [HOME](https://davidprush.com)
+
 ***
