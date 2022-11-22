@@ -6,17 +6,15 @@
 
 # PROFESSIONAL OVERVIEW
 
-***
-
 ### _I deliver continuous improvement for systems and processes by implementing innovative solutions._
 
 * Comprehensive experience in leading teams >30, databases, operations, programs, projects, and logistics
 * Managed risk upon multiple lines to protect assets, property, and equipment valued at over $2M
 * Awarded four Air Force medals for meritorious service, superior performance, and distinctive accomplishments
 
-# PROFESSIONAL EXPERIENCE
-
 ***
+
+# PROFESSIONAL EXPERIENCE
 
 ## UNITED STATES AIR FORCE <br>_May 2006 - May 2020_
 
@@ -80,6 +78,7 @@
 ***
 
 ## ENTREPRENUERIAL EXPERIENCE
+
 > | **RUSH SOLUTIONS LLC** | _Pittsburgh, Pennsylvania_	|
 > | :--- | ---: |
 > | **TECHNOLOGY & OPERATIONS CONSULTANT** | _**May 2020 – Present**_ |
