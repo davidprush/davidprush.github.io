@@ -95,15 +95,11 @@
 | _Bachelor of Science (B.S)_ | **IT Management** | _**American Military University**_ | 2020 |
 | _Associate of Science (A.S)_ | **Avionics Systems Technology** | _**Community College of the Air Force**_ |	2014 |
 
-***
-
 ## TECHNICAL COMPETENCIES
 
 | VBA (Visual Basic) | SQL | Python | MS Access | 
 | :---: | :---: |  :---: |  :---: | 
 | **MS Excel** | **MS Project** | **Git** | **GitHub** | 	
-
-***
 
 [HOME](https://davidprush.com)
 
