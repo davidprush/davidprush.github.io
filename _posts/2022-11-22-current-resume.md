@@ -1,8 +1,6 @@
 # DAVID P. RUSH
 
-(850) 890-3498 | [davidprush@gmail.com](mailto:davidprush@gmail.com) | [davidprush.com](https://davidprush.com) | [LinkedIn](https://www.linkedin.com/in/davidprush/)
-
-***
+| (850) 890-3498 | [davidprush@gmail.com](mailto:davidprush@gmail.com) | [davidprush.com](https://davidprush.com) | [LinkedIn](https://www.linkedin.com/in/davidprush/) |
 
 # PROFESSIONAL OVERVIEW
 
@@ -20,7 +18,7 @@
 
 ***
 
-> | `Equivalent Civilian Title` | _`USAF Title`_ | `City, State` | `Dates` |
+> | `Equivalent Civilian Title` | `USAF Title` | `City, State` | `Dates` |
 > | :--- | :---: | :---: | ---: |
 > | **OPERATIONS MANAGER** | _Specialist Expediter_ | Alamogordo, NM | _**July 2018 – May 2020**_ |
 >
@@ -79,7 +77,7 @@
 
 ## ENTREPRENUERIAL EXPERIENCE
 
-> | **RUSH SOLUTIONS LLC** | _Pittsburgh, Pennsylvania_	|
+> | `RUSH SOLUTIONS LLC` | `Pittsburgh, Pennsylvania`	|
 > | :--- | ---: |
 > | **TECHNOLOGY & OPERATIONS CONSULTANT** | _**May 2020 – Present**_ |
 > 
