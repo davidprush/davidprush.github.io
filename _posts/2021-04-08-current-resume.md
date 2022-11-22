@@ -16,6 +16,7 @@
 ***
 
 ## UNITED STATES AIR FORCE <br>_May 2006 - May 2020_
+
 > | **`Equivalent Civilian Title`** | _`USAF Title`_ | `City, State` | _**`Dates`**_ |
 > | :--- | :---: | :---: | ---: |
 > | **OPERATIONS MANAGER** | _Specialist Expediter_ | Alamogordo, NM | _**July 2018 – May 2020**_ |
@@ -80,7 +81,7 @@
 > 
 > _Delivered business-enhancing information technology strategies and solutions for small and growth-minded businesses by encouraging and supporting personal growth and professional development._
 > * **Professional Portfolio & Development:** Created a Python program that compares a dictionary file with a text file and compiles a list of matches with frequency of occurrence https://github.com/davidprush/txtd2c
-> * **Business Analysis & IT Solutions: Evaluated business processes and systems to advise technological improvements
+> * **Business Analysis & IT Solutions:** Evaluated business processes and systems to advise technological improvements
 > * **Professional Education:** Completed 11 e-learning courses and enhanced industry skills and knowledge: Excel VBA Process Modeling, Learning ITIL, Become a SQL Developer, SQL Data Reporting and Analysis, SQL for Data Analysis, SQL Queries Made Easy, SQL Essential Training, Programming Foundations Databases, Business Analysis for Project Managers, Project Management Technical Projects, The New Age of Risk Management Strategy for Business
 
 ***
