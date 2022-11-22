@@ -1,123 +1,64 @@
-# David Rush
+# DAVID P. RUSH
 (850) 890-3498 | davidprush@gmail.com | [davidprush.com](https://davidprush.com) | [LinkedIn](https://www.linkedin.com/in/davidprush/)
-## Professional Summary
-Systems analyst and Air Force veteran leveraging 14 years of proven ability to be a corporate steward interacting and collaborating with multiple levels of management and diverse cultural audiences. Possess a comprehensive background in large-scale logistics operations, supply chain management, inventory management, and aircraft maintenance derived from conducting domestic and global operations. Adept at leading teams of 20 in a dynamic, fast-paced environment. Managed a specific budget, equipment, assets, and program valued at $100M while managing risk, safety, quality assurance, and compliance. Active SECRET (Expires 2027) Security Clearance. 
-
-## Experience
-### Rush Solutions LLC (2020-Present)
-#### Principal
-IT consultancy providing business-enhancing solutions for small and growth-minded businesses:
-
-● Full-scale IT strategy
-
-● IT Modernization & New Technology Adoption
-
-● Business Process Integration
-
-● Audit of IT Environments, Applications, and Infrastructures
-
-● Increased revenue through novel digital sales channels
-
-● Network Setup, Maintenance Services, Data Backup & Recovery
-
-● Mobile Device Management
-
-### UNITED STATES AIR FORCE (2006-2019)
-
-#### Team Lead
-
-● Led 27-person team, ensured quality maintenance; subject matter expert for technicians, stakeholders, and customers
-
-● Enhanced multi-level communications and operations delivering 18,000 solutions, 80 inspections; pivotal to 2,000 missions, 15,000 flight hours, and 914 pilot graduates
-
-● Ensured work performed was per maintenance manuals, regulations, policies, established procedures and increased operational readiness by 15%
-
-● Recognized deserving team members for superior performance, collaborated with senior leadership fostering a sense of teamwork, and formally recognized for leadership excellence
-
-#### Resource Advisor
-
-● Secured and maintained budgetary finances, established internal controls; guaranteed funds for vital equipment, supplies, and personnel services; evaluated organizational structures performed cost estimates, and increased operational performance 10%
-
-● Negotiated $100M budget, $400K for official travel, six contracts totaling $1.2M, and validated three high-volume expense accounts
-
-● Innovated and implemented database according to established regulations, standard operating procedures, alleviated budget constraints, centralized data, and enabled novel financial insights
-
-● Secured facility, assets, and vital resources; maintained 73 mission- critical systems valued at $82K with a 100% inspection pass-rate
-
-#### Supervisor
-
-● Managed operations adhering to technical documentation, defined work scope, baseline configuration, functionality, and evaluated performance
-
-● Created and managed a project for cross-functional database, collaborated with lateral agency stakeholders, optimized frontend data entry, cut processing time and error-rate by 66%
-
-● Evaluated 40 international organizations totaling 4,000 personnel: coordinated security and transportation with zero discrepancies
-
-● Authored database of 20,000 records/112 Excel documents, saving 144 annual-workhours and increasing reporting productivity by 40%
-
-#### Technician
-
-● Assessed equipment, isolated aircraft system malfunctionsfor core processing, radar, laser, displays, fiber, and satellite communications
-
-● Drove service and repairs grounded on high-quality craftmanship by providing strong leadership and motivation to junior team members
-
-● Exhibited constant dedication to quality, maximized accuracy and ensured first-time jobs completed correctly
-
-● Spearheaded training for skills and knowledge for repairing and replacing components and wiring
-
-## Education
-
-### Bachelors | Magna Cum Laude 2020 | American Military University
-
-● Major: Information Technology Management
-
-### Associates | 2014 | Community College of the air force
-
-● Major: Avionics Systems Technology
-
-## Skills & Competencies
-
-● Active SECRET Security Clearance
-
-● Operations Management
-
-● Risk Mitigation 
-
-● Budget/Finance
-
-● Project Management 
-
-● Project Oversight 
-
-● Troubleshooting 
-
-● Test Requirements
-
-● Continuous Process Improvement 
-
-● Multi-Level Communication
-
-● Cross-Functional Leadership
-
-● Requirements Gathering
-
-● System Design 
-
-● Design Testing
-
-● Technical Support 
-
-● Forecasting
-
-● Creative Problem Solving (Innovative) 
-
-● Communication Skills (Written/Oral)
-
-● Software (OS) Virtualization
-
-● MS Office Suite/Visual Studio/Project 
-
-● Linux ● Mac OS ● MS Windows
-
-● Java ● SQL ● Python ● Visual Basic
+# PROFESSIONAL OVERVIEW
+***
+#### I deliver continuous improvement for systems and processes by implementing innovative solutions.
+* Comprehensive experience in leading teams >30, databases, operations, programs, projects, and logistics
+* Managed risk upon multiple lines to protect assets, property, and equipment valued at over $2M
+* Awarded four Air Force medals for meritorious service, superior performance, and distinctive accomplishments
+# PROFESSIONAL EXPERIENCE
+***
+## UNITED STATES AIR FORCE <br>_May 2006 - May 2020_
+> | Equivalent Civilian Title | _USAF Title_ | City, State | Dates |
+> | :--- | :---: | :---: | ---: |
+> | **OPERATIONS MANAGER** | _Specialist Expediter_ | Alamogordo, NM | _**July 2018 – May 2020**_ |
+>
+> _Led, mentored, and trained a 64-person team, SME for all aspects of avionics and advised technicians and customers. Managed, monitored, and coordinated operations of maintenance activities. Awarded The Air Force Commendation Medal (2020) for superior performance—improved administrative functions and enhanced KPIs._
+> * **Operations/Personnel/Logistics:** Managed over 18,000 maintenance actions and 80 inspections; effectively contributed to 2,000 sorties, 18K flight hours, and 914 pilot graduates
+> * **Regulation Compliance/Multi-Level Communication:** Evaluated performance, ensured operations in accordance with maintenance manuals, policies, and procedures, while maintaining a culture of teamwork and collaboration; established consistent open channels for communication and improved aircraft operational readiness 
+> * **Training and Development:** Enforced that all maintenance personnel were adequately trained and qualified to perform all assigned tasks;  recognized deserving subordinates of superior performance, resulting in formal recognition for leadership excellence
+***
+> | Equivalent Civilian Title | _USAF Title_ | City, State | Dates |
+> | :--- | :---: | :---: | ---: |
+> | **BUDGET SPECIALIST** | _Resource Advisor_ | Panama City, FL | _**May 2017 – June 2018**_ |
+> 	
+> _Organized management activities, established internal controls and ensured funding for mission-critical equipment, supplies, and services. Managed and evaluated organization structure, performed cost estimates, and evaluated for efficiency._ 
+> *	**Financial Impact of Market Operations:** Coordinated and managed a $100M budget, directed $400K in travel funds, managed six corporate contracts valued at $1.2M, and oversaw three expense accounts
+> *	**Identify Trends and Validation of Impact on Initiatives:** Established new policies and procedures that alleviated budget constraints and developed a Microsoft Access database that centralized data and enabled new financial insights 
+> *	**Developed Processes to Streamline Workflows:** Developed an account tracking system, resulting in zero deficiencies, eliminating erroneous data, and increasing efficiency by 75%
+> *	**Logistics/Supply Chain Management:** Oversaw facility resources and assets, controlled 73 items valued at $82K, with a 100% inspection rate
+***
+> | Equivalent Civilian Title | _USAF Title_ | City, State | Dates |
+> | :--- | :---: | :---: | ---: |
+> | **PROGRAM MANAGER** | _Avionics Evaluator_ | Panama City, Fl | _**June 2014 – May 2017**_ |
+>
+> _Supervised and evaluated avionic operations and facilitated technical documentation to define work scope, technical configurations, functionality, systems integration, and new features. Led, trained, and assisted the avionics team, as SME for avionics. Awarded The Air Force Commendation Medal (2018) for superior performance—developed, enhanced, and streamlined processes and systems resulting in improved mission efficiency and effectiveness._
+> *	**Database Development/Project Management:** Led database project, established multi-level stakeholder requirements and critical path, developed frontend, programmed complex VBA functions for data entry optimization and report automation, delivered vital C-level KPIs, decreased processing time, and cut error frequency by 66%
+> * **KPI Goal Setting/Personnel Evaluation:** Evaluated 40 organizations/4,000 personnel annually: coordinated and managed large-scale security, transportation, and supply functions; a vital role in C-level reports for global strategies
+> *	**Update/Maintain Data for Accuracy:** Analyzed and compiled >20,000 records, integrated centralized vital data into a Microsoft Access database, wrote >14,000 lines of VBA code, saved 144 work hours annually, and increased reporting productivity by over 40%
+***
+Program Manager, Activity Security Manager, Hampton, VA	October 2009 – June 2014
+Enforced security standards, screened security clearances, and conducted investigations for 186 assigned personnel. Managed security requirements for 20 F-22 aircraft valued at $2.7B and classified courier demands. Established operating instructions, policies, and procedures to ensure unit security operations were compliant. Awarded The Air Force Commendation Medal (2013) for superior performance—notably for process improvement and consistently exceeding goals and KPIs.
+•	Prioritize Business Needs: Envisioned, designed, and implemented database, programmed VBA functions, automated custom reports, maximized training resources, and increased certifications by 15%
+•	Training and Development: Led training for new deployment briefing facility installation, eliminating setup time by 30%
+•	Curriculum Development: Created advanced security awareness training, trained 42 staff, and reduced backlog by 30%
+•	Onboarding: Developed in-processing checklist for newly assigned personnel cutting initial paperwork by 25% 
+Technician, Avionics Journeyman, Sumter, SC	May 2006 – October 2009
+Interpreted equipment characteristics, isolated systems for radar, infrared, laser, controls, displays, electro-optical, satellite communication systems, flight controls, communication, navigation, identification, and satellite communications. Awarded The Air Force Achievement Medal (2009) for superior performance—consistently accomplishing duties and taskings.
+•	Troubleshooting/Maintenance: Responsible for installing, inspecting, testing, adjusting, or repairing avionics equipment, such as radar, radio, and navigation on commercial aircraft, in compliance with policies, manuals, procedures, and requirements
+•	Leadership: Established service and repairs grounded on high-quality craftmanship by providing strong leadership and motivation to junior mechanics and apprentices
+•	Quality and Continuous Improvement: Maintained constant dedication to quality and attention to detail, maximized accuracy and ensured jobs were completed the first time correctly
+ENTREPRENUERIAL EXPERIENCE
+RUSH SOLUTIONS LLC, Pittsburgh, Pennsylvania	
+Technology & Operations Consultant	May 2020 – Present
+Delivered business-enhancing information technology strategies and solutions for small and growth-minded businesses by encouraging and supporting personal growth and professional development.
+•	Professional Portfolio & Development: Created a Python program that compares a dictionary file with a text file and compiles a list of matches with frequency of occurrence https://github.com/davidprush/txtd2c
+•	Business Analysis & IT Solutions: Evaluated business processes and systems to advise technological improvements
+•	Professional Education: Completed 11 e-learning courses and enhanced industry skills and knowledge: Excel VBA Process Modeling, Learning ITIL, Become a SQL Developer, SQL Data Reporting and Analysis, SQL for Data Analysis, SQL Queries Made Easy, SQL Essential Training, Programming Foundations Databases, Business Analysis for Project Managers, Project Management Technical Projects, The New Age of Risk Management Strategy for Business
+EDUCATION
+Bachelor of Science (B.S) IT Management, American Military University	2020
+Associate of Science (A.S) Avionics Systems Technology, Community College of the Air Force	2014
+TECHNICAL COMPETENCIES
+VBA (Visual Basic) | SQL | Python | MS Access | MS Excel | MS Project | Git | GitHub 	
 
 [Go Home...](https://davidprush.com)
