@@ -37,28 +37,42 @@
 > * **KPI Goal Setting/Personnel Evaluation:** Evaluated 40 organizations/4,000 personnel annually: coordinated and managed large-scale security, transportation, and supply functions; a vital role in C-level reports for global strategies
 > *	**Update/Maintain Data for Accuracy:** Analyzed and compiled >20,000 records, integrated centralized vital data into a Microsoft Access database, wrote >14,000 lines of VBA code, saved 144 work hours annually, and increased reporting productivity by over 40%
 ***
-Program Manager, Activity Security Manager, Hampton, VA	October 2009 – June 2014
-Enforced security standards, screened security clearances, and conducted investigations for 186 assigned personnel. Managed security requirements for 20 F-22 aircraft valued at $2.7B and classified courier demands. Established operating instructions, policies, and procedures to ensure unit security operations were compliant. Awarded The Air Force Commendation Medal (2013) for superior performance—notably for process improvement and consistently exceeding goals and KPIs.
-•	Prioritize Business Needs: Envisioned, designed, and implemented database, programmed VBA functions, automated custom reports, maximized training resources, and increased certifications by 15%
-•	Training and Development: Led training for new deployment briefing facility installation, eliminating setup time by 30%
-•	Curriculum Development: Created advanced security awareness training, trained 42 staff, and reduced backlog by 30%
-•	Onboarding: Developed in-processing checklist for newly assigned personnel cutting initial paperwork by 25% 
-Technician, Avionics Journeyman, Sumter, SC	May 2006 – October 2009
-Interpreted equipment characteristics, isolated systems for radar, infrared, laser, controls, displays, electro-optical, satellite communication systems, flight controls, communication, navigation, identification, and satellite communications. Awarded The Air Force Achievement Medal (2009) for superior performance—consistently accomplishing duties and taskings.
-•	Troubleshooting/Maintenance: Responsible for installing, inspecting, testing, adjusting, or repairing avionics equipment, such as radar, radio, and navigation on commercial aircraft, in compliance with policies, manuals, procedures, and requirements
-•	Leadership: Established service and repairs grounded on high-quality craftmanship by providing strong leadership and motivation to junior mechanics and apprentices
-•	Quality and Continuous Improvement: Maintained constant dedication to quality and attention to detail, maximized accuracy and ensured jobs were completed the first time correctly
-ENTREPRENUERIAL EXPERIENCE
-RUSH SOLUTIONS LLC, Pittsburgh, Pennsylvania	
-Technology & Operations Consultant	May 2020 – Present
-Delivered business-enhancing information technology strategies and solutions for small and growth-minded businesses by encouraging and supporting personal growth and professional development.
-•	Professional Portfolio & Development: Created a Python program that compares a dictionary file with a text file and compiles a list of matches with frequency of occurrence https://github.com/davidprush/txtd2c
-•	Business Analysis & IT Solutions: Evaluated business processes and systems to advise technological improvements
-•	Professional Education: Completed 11 e-learning courses and enhanced industry skills and knowledge: Excel VBA Process Modeling, Learning ITIL, Become a SQL Developer, SQL Data Reporting and Analysis, SQL for Data Analysis, SQL Queries Made Easy, SQL Essential Training, Programming Foundations Databases, Business Analysis for Project Managers, Project Management Technical Projects, The New Age of Risk Management Strategy for Business
-EDUCATION
-Bachelor of Science (B.S) IT Management, American Military University	2020
-Associate of Science (A.S) Avionics Systems Technology, Community College of the Air Force	2014
-TECHNICAL COMPETENCIES
-VBA (Visual Basic) | SQL | Python | MS Access | MS Excel | MS Project | Git | GitHub 	
-
+> | Equivalent Civilian Title | _USAF Title_ | City, State | Dates |
+> | :--- | :---: | :---: | ---: |
+> | **PROGRAM MANAGER** | _Acitivity Security Manager_ | Hampton, VA | _**October 2009 – June 2014**_ |
+> _Enforced security standards, screened security clearances, and conducted investigations for 186 assigned personnel. Managed security requirements for 20 F-22 aircraft valued at $2.7B and classified courier demands. Established operating instructions, policies, and procedures to ensure unit security operations were compliant. Awarded The Air Force Commendation Medal (2013) for superior performance—notably for process improvement and consistently exceeding goals and KPIs._
+> * **Prioritize Business Needs:** Envisioned, designed, and implemented database, programmed VBA functions, automated custom reports, maximized training resources, and increased certifications by 15%
+> * **Training and Development:** Led training for new deployment briefing facility installation, eliminating setup time by 30%
+> * **Curriculum Development:** Created advanced security awareness training, trained 42 staff, and reduced backlog by 30%
+> * **Onboarding:** Developed in-processing checklist for newly assigned personnel cutting initial paperwork by 25%
+*** 
+> | Equivalent Civilian Title | _USAF Title_ | City, State | Dates |
+> | :--- | :---: | :---: | ---: |
+> | **TECHNICIAN** | _Avionics Journeyman_ | Sumter, SC | _**May 2006 – October 2009**_ |
+> _Interpreted equipment characteristics, isolated systems for radar, infrared, laser, controls, displays, electro-optical, satellite communication systems, flight controls, communication, navigation, identification, and satellite communications. Awarded The Air Force Achievement Medal (2009) for superior performance—consistently accomplishing duties and taskings._
+> * **Troubleshooting/Maintenance:** Responsible for installing, inspecting, testing, adjusting, or repairing avionics equipment, such as radar, radio, and navigation on commercial aircraft, in compliance with policies, manuals, procedures, and requirements
+> * **Leadership: Established service and repairs grounded on high-quality craftmanship by providing strong leadership and motivation to junior mechanics and apprentices
+> * **Quality and Continuous Improvement:** Maintained constant dedication to quality and attention to detail, maximized accuracy and ensured jobs were completed the first time correctly
+***
+## ENTREPRENUERIAL EXPERIENCE
+> | RUSH SOLUTIONS LLC | Pittsburgh, Pennsylvania	|
+> | :--- | ---: |
+> | **TECHNOLOGY & OPERATIONS CONSULTANT** | _**May 2020 – Present**_ |
+> _Delivered business-enhancing information technology strategies and solutions for small and growth-minded businesses by encouraging and supporting personal growth and professional development._
+> * **Professional Portfolio & Development:** Created a Python program that compares a dictionary file with a text file and compiles a list of matches with frequency of occurrence https://github.com/davidprush/txtd2c
+> * **Business Analysis & IT Solutions: Evaluated business processes and systems to advise technological improvements
+> * **Professional Education:** Completed 11 e-learning courses and enhanced industry skills and knowledge: Excel VBA Process Modeling, Learning ITIL, Become a SQL Developer, SQL Data Reporting and Analysis, SQL for Data Analysis, SQL Queries Made Easy, SQL Essential Training, Programming Foundations Databases, Business Analysis for Project Managers, Project Management Technical Projects, The New Age of Risk Management Strategy for Business
+***
+## EDUCATION
+| Type | Major | School | Graduation |
+| :--- | :---: | :---: | ---: |
+| _Bachelor of Science (B.S)_ | **IT Management** | _**American Military University**_ | 2020 |
+| _Associate of Science (A.S)_ | **Avionics Systems Technology** | _**Community College of the Air Force**_ |	2014 |
+***
+## TECHNICAL COMPETENCIES
+| VBA (Visual Basic) | SQL | Python | MS Access | 
+| :---: | :---: |  :---: |  :---: | 
+| MS Excel | MS Project | Git | GitHub | 	
+***
 [Go Home...](https://davidprush.com)
+***
