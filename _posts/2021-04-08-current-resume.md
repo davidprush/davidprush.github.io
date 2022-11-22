@@ -1,8 +1,9 @@
+***
 # DAVID P. RUSH
 (850) 890-3498 | davidprush@gmail.com | [davidprush.com](https://davidprush.com) | [LinkedIn](https://www.linkedin.com/in/davidprush/)
 # PROFESSIONAL OVERVIEW
 ***
-#### I deliver continuous improvement for systems and processes by implementing innovative solutions.
+### _I deliver continuous improvement for systems and processes by implementing innovative solutions._
 * Comprehensive experience in leading teams >30, databases, operations, programs, projects, and logistics
 * Managed risk upon multiple lines to protect assets, property, and equipment valued at over $2M
 * Awarded four Air Force medals for meritorious service, superior performance, and distinctive accomplishments
@@ -77,5 +78,5 @@
 | :---: | :---: |  :---: |  :---: | 
 | **MS Excel** | **MS Project** | **Git** | **GitHub** | 	
 ***
-[Go Home...](https://davidprush.com)
+[HOME](https://davidprush.com)
 ***
