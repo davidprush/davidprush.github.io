@@ -3,7 +3,7 @@
 
 # DAVID P. RUSH
 
-(850) 890-3498 | davidprush@gmail.com | [davidprush.com](https://davidprush.com) | [LinkedIn](https://www.linkedin.com/in/davidprush/)
+(850) 890-3498 | [davidprush@gmail.com](mailto:davidprush@gmail.com) | [davidprush.com](https://davidprush.com) | [LinkedIn](https://www.linkedin.com/in/davidprush/)
 
 # PROFESSIONAL OVERVIEW
 
