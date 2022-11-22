@@ -78,7 +78,7 @@
 ***
 
 ## ENTREPRENUERIAL EXPERIENCE
-> | **`RUSH SOLUTIONS LLC`** | `Pittsburgh, Pennsylvania`	|
+> | **RUSH SOLUTIONS LLC** | _Pittsburgh, Pennsylvania_	|
 > | :--- | ---: |
 > | **TECHNOLOGY & OPERATIONS CONSULTANT** | _**May 2020 – Present**_ |
 > 
