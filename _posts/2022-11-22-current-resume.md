@@ -9,6 +9,7 @@
 ***
 
 ### _I deliver continuous improvement for systems and processes by implementing innovative solutions._
+
 * Comprehensive experience in leading teams >30, databases, operations, programs, projects, and logistics
 * Managed risk upon multiple lines to protect assets, property, and equipment valued at over $2M
 * Awarded four Air Force medals for meritorious service, superior performance, and distinctive accomplishments
@@ -19,7 +20,9 @@
 
 ## UNITED STATES AIR FORCE <br>_May 2006 - May 2020_
 
-> | **`Equivalent Civilian Title`** | _`USAF Title`_ | `City, State` | _**`Dates`**_ |
+***
+
+> | `Equivalent Civilian Title` | _`USAF Title`_ | `City, State` | `Dates` |
 > | :--- | :---: | :---: | ---: |
 > | **OPERATIONS MANAGER** | _Specialist Expediter_ | Alamogordo, NM | _**July 2018 – May 2020**_ |
 >
@@ -30,7 +33,7 @@
 
 ***
 
-> | **`Equivalent Civilian Title`** | _`USAF Title`_ | `City, State` | _**`Dates`**_ |
+> | `Equivalent Civilian Title` | `USAF Title` | `City, State` | `Dates` |
 > | :--- | :---: | :---: | ---: |
 > | **BUDGET SPECIALIST** | _Resource Advisor_ | Panama City, FL | _**May 2017 – June 2018**_ |
 > 	
@@ -42,7 +45,7 @@
 
 ***
 
-> | **`Equivalent Civilian Title`** | _`USAF Title`_ | `City, State` | _**`Dates`**_ |
+> | `Equivalent Civilian Title` | `USAF Title` | `City, State` | `Dates` |
 > | :--- | :---: | :---: | ---: |
 > | **PROGRAM MANAGER** | _Avionics Evaluator_ | Panama City, Fl | _**June 2014 – May 2017**_ |
 >
@@ -53,7 +56,7 @@
 
 ***
 
-> | **`Equivalent Civilian Title`** | _`USAF Title`_ | `City, State` | _**`Dates`**_ |
+> | `Equivalent Civilian Title` | `USAF Title` | `City, State` | `Dates` |
 > | :--- | :---: | :---: | ---: |
 > | **PROGRAM MANAGER** | _Acitivity Security Manager_ | Hampton, VA | _**October 2009 – June 2014**_ |
 > 
@@ -65,7 +68,7 @@
 
 *** 
 
-> | **`Equivalent Civilian Title`** | _`USAF Title`_ | `City, State` | _**`Dates`**_ |
+> | `Equivalent Civilian Title` | `USAF Title` | `City, State` | `Dates` |
 > | :--- | :---: | :---: | ---: |
 > | **TECHNICIAN** | _Avionics Journeyman_ | Sumter, SC | _**May 2006 – October 2009**_ |
 > 
