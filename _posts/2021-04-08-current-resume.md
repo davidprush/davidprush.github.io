@@ -72,7 +72,7 @@
 > 
 > _Interpreted equipment characteristics, isolated systems for radar, infrared, laser, controls, displays, electro-optical, satellite communication systems, flight controls, communication, navigation, identification, and satellite communications. Awarded The Air Force Achievement Medal (2009) for superior performance—consistently accomplishing duties and taskings._
 > * **Troubleshooting/Maintenance:** Responsible for installing, inspecting, testing, adjusting, or repairing avionics equipment, such as radar, radio, and navigation on commercial aircraft, in compliance with policies, manuals, procedures, and requirements
-> * **Leadership: Established service and repairs grounded on high-quality craftmanship by providing strong leadership and motivation to junior mechanics and apprentices
+> * **Leadership:** Established service and repairs grounded on high-quality craftmanship by providing strong leadership and motivation to junior mechanics and apprentices
 > * **Quality and Continuous Improvement:** Maintained constant dedication to quality and attention to detail, maximized accuracy and ensured jobs were completed the first time correctly
 
 ***
