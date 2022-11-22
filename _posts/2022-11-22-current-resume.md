@@ -77,8 +77,10 @@
 
 ## ENTREPRENUERIAL EXPERIENCE
 
-> | `RUSH SOLUTIONS LLC` | `Pittsburgh, Pennsylvania`	|
-> | :--- | ---: |
+## RUSH SOLUTIONS LLC <br>_Pittsburgh, Pennsylvania_
+
+***
+
 > | **TECHNOLOGY & OPERATIONS CONSULTANT** | _**May 2020 – Present**_ |
 > 
 > _Delivered business-enhancing information technology strategies and solutions for small and growth-minded businesses by encouraging and supporting personal growth and professional development._
@@ -97,9 +99,11 @@
 
 ## TECHNICAL COMPETENCIES
 
-| VBA (Visual Basic) | SQL | Python | MS Access | 
-| :---: | :---: |  :---: |  :---: | 
-| **MS Excel** | **MS Project** | **Git** | **GitHub** | 	
+| VBA (Visual Basic) | SQL |
+| :---: | :---: |
+| **Python** | **MS Access** | 
+| **MS Excel** | **MS Project** | 
+| **Git** | **GitHub** | 	
 
 [HOME](https://davidprush.com)
 
