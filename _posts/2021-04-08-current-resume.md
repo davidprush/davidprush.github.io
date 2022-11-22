@@ -1,14 +1,20 @@
+
 ***
+
 # DAVID P. RUSH
 (850) 890-3498 | davidprush@gmail.com | [davidprush.com](https://davidprush.com) | [LinkedIn](https://www.linkedin.com/in/davidprush/)
 # PROFESSIONAL OVERVIEW
+
 ***
+
 ### _I deliver continuous improvement for systems and processes by implementing innovative solutions._
 * Comprehensive experience in leading teams >30, databases, operations, programs, projects, and logistics
 * Managed risk upon multiple lines to protect assets, property, and equipment valued at over $2M
 * Awarded four Air Force medals for meritorious service, superior performance, and distinctive accomplishments
 # PROFESSIONAL EXPERIENCE
+
 ***
+
 ## UNITED STATES AIR FORCE <br>_May 2006 - May 2020_
 > | **`Equivalent Civilian Title`** | _`USAF Title`_ | `City, State` | _**`Dates`**_ |
 > | :--- | :---: | :---: | ---: |
@@ -28,7 +34,9 @@
 > *	**Identify Trends and Validation of Impact on Initiatives:** Established new policies and procedures that alleviated budget constraints and developed a Microsoft Access database that centralized data and enabled new financial insights 
 > *	**Developed Processes to Streamline Workflows:** Developed an account tracking system, resulting in zero deficiencies, eliminating erroneous data, and increasing efficiency by 75%
 > *	**Logistics/Supply Chain Management:** Oversaw facility resources and assets, controlled 73 items valued at $82K, with a 100% inspection rate
+
 ***
+
 > | **`Equivalent Civilian Title`** | _`USAF Title`_ | `City, State` | _**`Dates`**_ |
 > | :--- | :---: | :---: | ---: |
 > | **PROGRAM MANAGER** | _Avionics Evaluator_ | Panama City, Fl | _**June 2014 – May 2017**_ |
@@ -37,7 +45,9 @@
 > *	**Database Development/Project Management:** Led database project, established multi-level stakeholder requirements and critical path, developed frontend, programmed complex VBA functions for data entry optimization and report automation, delivered vital C-level KPIs, decreased processing time, and cut error frequency by 66%
 > * **KPI Goal Setting/Personnel Evaluation:** Evaluated 40 organizations/4,000 personnel annually: coordinated and managed large-scale security, transportation, and supply functions; a vital role in C-level reports for global strategies
 > *	**Update/Maintain Data for Accuracy:** Analyzed and compiled >20,000 records, integrated centralized vital data into a Microsoft Access database, wrote >14,000 lines of VBA code, saved 144 work hours annually, and increased reporting productivity by over 40%
+
 ***
+
 > | **`Equivalent Civilian Title`** | _`USAF Title`_ | `City, State` | _**`Dates`**_ |
 > | :--- | :---: | :---: | ---: |
 > | **PROGRAM MANAGER** | _Acitivity Security Manager_ | Hampton, VA | _**October 2009 – June 2014**_ |
@@ -47,7 +57,9 @@
 > * **Training and Development:** Led training for new deployment briefing facility installation, eliminating setup time by 30%
 > * **Curriculum Development:** Created advanced security awareness training, trained 42 staff, and reduced backlog by 30%
 > * **Onboarding:** Developed in-processing checklist for newly assigned personnel cutting initial paperwork by 25%
+
 *** 
+
 > | **`Equivalent Civilian Title`** | _`USAF Title`_ | `City, State` | _**`Dates`**_ |
 > | :--- | :---: | :---: | ---: |
 > | **TECHNICIAN** | _Avionics Journeyman_ | Sumter, SC | _**May 2006 – October 2009**_ |
