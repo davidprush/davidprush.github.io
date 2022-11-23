@@ -65,5 +65,6 @@ layout: default
 || [ 📧 davidprush@gmail.com](mailto:davidprush@gmail.com) | 
 || [ 💻 davidprush.com](https://davidprush.com) | 
 || [ 🔗 LinkedIn](https://www.linkedin.com/in/davidprush/) |
+|| [ 📃 **_Download a PDF of my resume_**](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf)
 
 ***
