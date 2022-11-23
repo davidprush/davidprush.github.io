@@ -12,7 +12,7 @@ layout: default
 [Link to another page](./another-page.html).
 --->
 
-# <img src="/assets/images/thumbnail.png" width="83" height="83"/> David P. Rush
+# <img src="/assets/images/thumbnail.png" width="81" height="81"/> David P. Rush
 ### 💪 💯 🏔️ Principal of Rush Solutions LLC. 
 
 ### 🧑‍💻 IT consultancy providing business-enhancing solutions for small and growth-minded businesses:
