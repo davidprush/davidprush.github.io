@@ -11,7 +11,7 @@ layout: default
 <!--
 [Link to another page](./another-page.html).
 --->
-
+***
 # <img src="/assets/images/thumbnail.png" width="79" height="79"/> David P. Rush
 ### 💪 💯 🏔️ Principal of Rush Solutions LLC. 
 
@@ -39,7 +39,7 @@ layout: default
         📱 Mobile Device Management
     </li>
 </ul>
-
+***
 <!---
 ## Blogs, Posts, Articles, & Stuff I'm thinking about...
 <ul>
@@ -51,11 +51,11 @@ layout: default
 </ul>
 --->
 
-### Contact Rush Solutions LLC for free quotes
-
-| ℹ️ **`CONTACT INFORMATION`** |
+### ℹ️ **`Contact Rush Solutions LLC for free quotes`**
+| |
 | :---: |
 | 📞 <a href="tel:850-890-3498">850-890-3498</a> | 
 | [ 📧 davidprush@gmail.com](mailto:davidprush@gmail.com) | 
 | [ 💻 davidprush.com](https://davidprush.com) | 
 | [ 🔗 LinkedIn](https://www.linkedin.com/in/davidprush/) |
+***
