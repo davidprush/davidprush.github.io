@@ -59,12 +59,13 @@ layout: default
 
 ### ℹ️ **`Contact Rush Solutions LLC for free quotes:`**
  
+| ℹ️ |**`CONTACT INFORMATION`** |
 | 📇 | 🔗 |
 | :--- | :--- |
 | <a href="tel:850-890-3498">📞</a> | <a href="tel:850-890-3498">850-890-3498</a> | 
 | [📧](mailto:davidprush@gmail.com) | [davidprush@gmail.com](mailto:davidprush@gmail.com) | 
 | [💻](https://davidprush.com) | [davidprush.com](https://davidprush.com) | 
 | [🌐](https://www.linkedin.com/in/davidprush/) | [LinkedIn](https://www.linkedin.com/in/davidprush/) |
-| [📃](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf) | [**_Download a PDF of my resume_**](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf)
+| [📃](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf) | [**_Download a PDF of my resume_**](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf) |
 
 ***
