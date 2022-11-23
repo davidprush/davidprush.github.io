@@ -11,9 +11,13 @@ layout: default
 <!--
 [Link to another page](./another-page.html).
 --->
+
 ***
+
 # <img src="/assets/images/thumbnail.png" width="79" height="79"/> David P. Rush
-### 💪 💯 🏔️ Principal of Rush Solutions LLC. 
+#### 💪 💯 🏔️ Principal of Rush Solutions LLC. 
+
+***
 
 ### 🧑‍💻 IT consultancy providing business-enhancing solutions for small and growth-minded businesses:
 <ul>
