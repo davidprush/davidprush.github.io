@@ -4,7 +4,8 @@ title: Still A Linux Enthusiast
 description: 
 ---
 # Still A Linux Enthusiast 
-[Go Home...](https://davidprush.com)
+
+[ 🏠 Home Page](https://davidprush.com)
 
 Previously I wrote 
 [Linux Fanatic Turned Windows Pragmatist](2021-04-08-windows-pragmatist.md) 
@@ -27,4 +28,4 @@ I enjoy programming and tinkering with my computer and Linux provides me with gr
 
 I still love Linux, and I will update this post with more reasons and details...
  
-[Go Home...](https://davidprush.com)
+[ 🏠 Home Page](https://davidprush.com)
