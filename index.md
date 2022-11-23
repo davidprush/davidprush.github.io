@@ -7,32 +7,32 @@ layout: default
 [Link to another page](./another-page.html).
 --->
 
-# Principal of Rush Solutions LLC.
+# David P. Rush <br> 💪 Principal of Rush Solutions LLC.
 
-<img src="/assets/images/thumbnail.png" width="100" height="100"/>
+<img src="/assets/images/thumbnail.png" width="100" height="100"/> 
 
 ### IT consultancy providing business-enhancing solutions for small and growth-minded businesses:
 <ul>
     <li> 
-        Full-scale IT Strategy
+        💹 Full-scale IT Strategy
     </li>
     <li> 
-        IT Modernization & New Technology Adoption
+        👽 IT Modernization & New Technology Adoption
     </li>
     <li> 
-        Business Process Integration
+        ♾️ Business Process Integration
     </li>
     <li> 
-        Audit of IT Environments, Applications, and Infrastructures
+        🔬 Audit of IT Environments, Applications, and Infrastructures
     </li>
     <li> 
-        Increased revenue through novel digital sales channels
+        💲 Increased revenue through novel digital sales channels
     </li>
     <li> 
-        Network Setup, Maintenance Services, Data Backup & Recovery
+        🌐 Network Setup, Maintenance Services, Data Backup & Recovery
     </li>
     <li> 
-        Mobile Device Management
+        📱 Mobile Device Management
     </li>
 </ul>
 
@@ -49,6 +49,9 @@ layout: default
 
 ### Contact Rush Solutions LLC for free quotes
 
-<a href="tel:850-890-3498">850-890-3498</a>
-
-<a href = "mailto: david@rushsolutions.net">david@rushsolutions.net</a>
+| ℹ️ **`CONTACT INFORMATION`** |
+| :---: |
+| 📞 <a href="tel:850-890-3498">850-890-3498</a> | 
+| [ 📧 davidprush@gmail.com](mailto:davidprush@gmail.com) | 
+| [ 💻 davidprush.com](https://davidprush.com) | 
+| [ 🔗 LinkedIn](https://www.linkedin.com/in/davidprush/) |
