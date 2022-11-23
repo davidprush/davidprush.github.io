@@ -4,7 +4,8 @@ title: Windows Pragmatist
 description: 
 ---
 # Linux Fanatic Turned Windows Pragmatist 
-[Go Home...](https://davidprush.com)
+
+[ 🏠 Home Page](https://davidprush.com)
 
 It was 1999, and I was a junior in high school when I installed Linux for the first time on my computer. It was a royal pain in the ass, but I enjoyed the challenge. The onboard modem did not work because it was software-driven, and my display was all kinds of messed up—thanks to integrated devices. Despite my inability to get my onboard soundcard working, my determination centered on getting Linux working. I had no clue what I was doing. My PC at the time was running Microsoft Windows 98, and I am almost sure Hewlett Packard had did not design it to run anything but Windows. But I was relentless in my determination to install this elusive yet foreign and fascinating operating system. But first, I'd like to give you a little background on my Linux journey.
 
@@ -29,5 +30,5 @@ I am nearly incredulous about Microsoft embracing open-source software. From WSL
 Let's face it, Linux is not going anywhere; it is undoubtedly the most prolific kernel to exist—and it's not going to fade into oblivion. However, the Linux desktop is fragmented, making it difficult for average computer users to adopt. Idealism certainly clouds thinking, perspective, and open-mindedness. I certainly wanted Linux to usurp Windows desktop market share. Still, now I don't think that's important nor necessary for the success of Linux. Maybe it's not so catastrophic if we never see the "year of the Linux desktop." Linux dominates so many technology sectors, which is why Microsoft was compelled to add WSL to Windows 10--developers gravitate towards *nix systems. 
 
 On the other hand, maybe the "year of the Linux desktop" happened with Chrome OS and Windows' WSL, but it's too difficult a pill to swallow. Nonetheless, Linux is not going anywhere anytime soon, but for widespread adoption of desktop Linux to occur, fragmentation and interoperability between distros require a lot of work. Linux has revolutionized and shaped the world we live in, and considering it is younger (first released September 17, 1991) than Windows and Mac is phenomenal. So, just maybe, we might accept that between Microsoft and Google, the "year of the Linux desktop" already happened. Still, we missed it because it wasn't how we expected.
- 
-[Go Home...](https://davidprush.com)
+
+[ 🏠 Home Page](https://davidprush.com)
