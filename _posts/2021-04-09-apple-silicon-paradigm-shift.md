@@ -3,8 +3,9 @@ layout: default
 title: Apple Silicon, Paradigm Shift
 description: 
 ---
-# Apple Silicon, Paradigm Shift 
-[Go Home...](https://davidprush.com)
+# Apple Silicon, Paradigm Shift
+
+[ 🏠 Home Page](https://davidprush.com)
 
 Apple has seemingly done the impossible. In 2020 Apple announced its newest creation: Apple Silicon. Specifically, the M1 is an ARM-based system on a chip (SoC) as a central processing unit for its Macintosh computers line. But the M1 is more than that. The M1 introduces a unified memory architecture or UMA allowing high bandwidth and enabling low‑latency memory between SoC components. 
 
@@ -16,4 +17,4 @@ Lots of practice...
 
 Every iPad iteration provided incremental improvements to Apple's silicon. And it started with the A7 in the iPhone 5S. So while Intel made mediocre improvements to their silicon, offering only modest speed improvements, Apple has been tirelessly ironing out a truly innovative processor.
 
-[Go Home...](https://davidprush.com)
+[ 🏠 Home Page](https://davidprush.com)
