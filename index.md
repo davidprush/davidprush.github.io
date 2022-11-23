@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
+
+<!--
 ![Branching](/assets/images/banner-img.png)
+--->
+
+# <img src="/assets/images/banner-img.png" width="80%" height="80%"/>
 
 <!--
 [Link to another page](./another-page.html).
