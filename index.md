@@ -60,7 +60,7 @@ layout: default
 ### ℹ️ **`Contact Rush Solutions LLC for free quotes:`**
  
 | 📇 | 🔗 |
-| :--- | :---: |
+| :--- | :--- |
 | 📞 |<a href="tel:850-890-3498">850-890-3498</a> | 
 | 📧 | [davidprush@gmail.com](mailto:davidprush@gmail.com) | 
 | 💻 | [davidprush.com](https://davidprush.com) | 
