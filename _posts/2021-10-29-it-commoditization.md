@@ -3,8 +3,10 @@ layout: default
 title: IT Commoditization
 description: 
 ---
-# IT Commoditization 
-[Go Home...](https://davidprush.com)
+
+# IT Commoditization
+
+[ 🏠 Home Page](https://davidprush.com)
 
 Commoditization of Information Technology is a double-edged sword because “it loses its uniqueness and competitive advantage.” 
 Information technology can bring a competitive edge to businesses, but when that technology is commoditized, its availability
@@ -30,4 +32,4 @@ But any organization should never trick itself into thinking a commodity is inno
 
 [Source: Examples of Commoditization](https://smallbusiness.chron.com/examples-commoditization-36973.html)
 
-[Go Home...](https://davidprush.com)
+[ 🏠 Home Page](https://davidprush.com)
