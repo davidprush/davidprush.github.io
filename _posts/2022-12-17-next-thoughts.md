@@ -12,6 +12,6 @@ Description:
 
 # >>....(ಠ_ಠ)....<<
 
-# >>....┐(シ)┌....<<
+# >>...┐(シ)┌...<<
 
 [ 🏠 Home Page](https://davidprush.com)
