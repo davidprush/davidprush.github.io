@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thoughts
+title: Next Thoughts
 Description:
 ---
 

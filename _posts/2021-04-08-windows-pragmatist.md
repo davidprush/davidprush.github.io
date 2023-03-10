@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Windows Pragmatist
+title: A Geek Story
 description: 
 ---
-# Linux Fanatic Turned Windows Pragmatist 
+# Linux Fanatic Turned Windows Pragmatist
 
 [ 🏠 Home Page](https://davidprush.com)
 
