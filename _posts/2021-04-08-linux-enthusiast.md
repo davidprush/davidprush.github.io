@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Still A Linux Enthusiast
+title: Linux Enthusiast
 description: 
 ---
-# Still A Linux Enthusiast 
+# Linux Enthusiast
 
 [ 🏠 Home Page](https://davidprush.com)
 

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Apple Silicon, Paradigm Shift
+title: Apple Silicon
 description: 
 ---
-# Apple Silicon, Paradigm Shift
+# Apple Silicon: A Paradigm Shift
 
 [ 🏠 Home Page](https://davidprush.com)
 

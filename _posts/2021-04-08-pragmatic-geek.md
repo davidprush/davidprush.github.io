@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Geek Story
+title: Pragmatic Geek
 description: 
 ---
 # Linux Fanatic Turned Windows Pragmatist

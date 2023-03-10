@@ -4,7 +4,7 @@ title: Next Thoughts
 Description:
 ---
 
-# THOUGHTS
+# NEXT THOUGHTS
 ***
 
 ## 
