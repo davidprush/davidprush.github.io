@@ -17,7 +17,7 @@ layout: default
 ***
 
 <kbd>
-    <img src="/assets/images/thumbnail.png" width="100" height="100"/>
+    <img src="/assets/images/thumbnail.png" width="110" height="110"/>
 </kbd>
 
 ### David P. Rush
