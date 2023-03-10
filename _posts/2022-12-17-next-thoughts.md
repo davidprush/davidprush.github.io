@@ -10,6 +10,6 @@ Description:
 
 ***
 
-## ¯\_(ツ)_/¯
+# (ಠ_ಠ)
 
 [ 🏠 Home Page](https://davidprush.com)
