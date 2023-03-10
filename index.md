@@ -15,7 +15,8 @@ layout: default
 ***
 <kbd>
     <img src="/assets/images/thumbnail.png" width="79" height="79"/>
-</kbd> ## David P. Rush
+</kbd> 
+## David P. Rush
 #### 💪 💯 🏔️ Principal of Rush Solutions LLC. 
 
 ***
