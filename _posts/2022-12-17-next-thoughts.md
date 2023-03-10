@@ -6,10 +6,10 @@ Description:
 
 # NEXT THOUGHTS
 
-## [ 🏠 Home Page](https://davidprush.com)
+[ 🏠 Home Page](https://davidprush.com)
 
 ***
 
 ## 
 
-## [ 🏠 Home Page](https://davidprush.com)
+[ 🏠 Home Page](https://davidprush.com)
