@@ -5,18 +5,22 @@ layout: default
 <!--
 ![Branching](/assets/images/banner-img.png)
 --->
+
 <kbd>
     <img src="/assets/images/banner-img.png" width="100%" height="80%"/>
 </kbd>
+
 <!--
 [Link to another page](./another-page.html).
 --->
 
 ***
+
 <kbd>
     <img src="/assets/images/thumbnail.png" width="79" height="79"/>
-</kbd> 
-## David P. Rush
+</kbd>
+ 
+### David P. Rush
 #### 💪 💯 🏔️ Principal of Rush Solutions LLC. 
 
 ***
