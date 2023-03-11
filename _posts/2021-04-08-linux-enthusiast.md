@@ -3,9 +3,10 @@ layout: default
 title: Linux Enthusiast
 description: 
 ---
-# Linux Enthusiast
 
 [ 🏠 Home Page](https://davidprush.com)
+
+# Linux Enthusiast
 
 Previously I wrote 
 [Linux Fanatic Turned Windows Pragmatist](2021-04-08-windows-pragmatist.md) 

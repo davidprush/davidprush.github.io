@@ -3,9 +3,10 @@ layout: default
 title: Apple Silicon
 description: 
 ---
-# Apple Silicon: A Paradigm Shift
 
 [ 🏠 Home Page](https://davidprush.com)
+
+# Apple Silicon: A Paradigm Shift
 
 Apple has seemingly done the impossible. In 2020 Apple announced its newest creation: Apple Silicon. Specifically, the M1 is an ARM-based system on a chip (SoC) as a central processing unit for its Macintosh computers line. But the M1 is more than that. The M1 introduces a unified memory architecture or UMA allowing high bandwidth and enabling low‑latency memory between SoC components. 
 

@@ -21,11 +21,11 @@ layout: default
 </kbd>
 
 ### David P. Rush
-#### 💪 💯 🏔️ Principal of Rush Solutions LLC. 
+#### Principal of Rush Solutions LLC. 
 
 ***
 
-### 🧑‍💻 IT consultancy providing business-enhancing solutions for small and growth-minded businesses:
+### IT consultancy providing business-enhancing solutions for small and growth-minded businesses:
 <ul>
     <li> 
         💹 Full-scale IT Strategy
@@ -63,7 +63,7 @@ layout: default
 </ul>
 --->
 
-### ℹ️ **`Contact Rush Solutions LLC for free quotes:`**
+### **`Contact Rush Solutions LLC for free quotes:`**
  
 | ℹ️ |**`CONTACT INFORMATION`** |
 | :--- | :--- |

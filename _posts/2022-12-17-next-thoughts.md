@@ -4,9 +4,9 @@ title: Next Thoughts
 Description:
 ---
 
-# NEXT THOUGHTS
-
 [ 🏠 Home Page](https://davidprush.com)
+
+# NEXT THOUGHTS
 
 ***
 

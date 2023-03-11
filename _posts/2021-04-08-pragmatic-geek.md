@@ -3,9 +3,10 @@ layout: default
 title: Pragmatic Geek
 description: 
 ---
-# Linux Fanatic Turned Windows Pragmatist
 
 [ 🏠 Home Page](https://davidprush.com)
+
+# Linux Fanatic Turned Windows Pragmatist
 
 It was 1999, and I was a junior in high school when I installed Linux for the first time on my computer. It was a royal pain in the ass, but I enjoyed the challenge. The onboard modem did not work because it was software-driven, and my display was all kinds of messed up—thanks to integrated devices. Despite my inability to get my onboard soundcard working, my determination centered on getting Linux working. I had no clue what I was doing. My PC at the time was running Microsoft Windows 98, and I am almost sure Hewlett Packard had did not design it to run anything but Windows. But I was relentless in my determination to install this elusive yet foreign and fascinating operating system. But first, I'd like to give you a little background on my Linux journey.
 
