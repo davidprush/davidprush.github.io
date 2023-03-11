@@ -63,8 +63,6 @@ layout: default
 </ul>
 --->
 
-### **`Contact Rush Solutions LLC for free quotes:`**
- 
 | ℹ️ |**`CONTACT INFORMATION`** |
 | :--- | :--- |
 | 📇 | 🔗 |
