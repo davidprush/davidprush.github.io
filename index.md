@@ -71,6 +71,6 @@ layout: default
 | [💻](https://davidprush.com) | [davidprush.com](https://davidprush.com) | 
 | [🌐](https://www.linkedin.com/in/davidprush/) | [LinkedIn](https://www.linkedin.com/in/davidprush/) |
 | [<img src="/assets/images/octocat.PNG" width="25%" height="35%"/>](https://github.com/davidprush/) | [ Github Overview ](https://github.com/davidprush/) |
-| [📃](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf) | [Download a PDF of my resume](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf) |
+| [📃](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf) | [Download a PDF copy of my resume](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf) |
 
 ***
