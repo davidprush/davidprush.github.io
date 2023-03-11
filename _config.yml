@@ -69,4 +69,5 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude: [.ruby-gemset, .ruby-version, Makefile, changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, vendor/]
+
