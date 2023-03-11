@@ -4,27 +4,7 @@ title: About David P. Rush
 permalink: /about
 comments: true
 ---
-
-<!--
-![Branching](/assets/images/banner-img.png)
---->
-
-<kbd>
-    <img src="/assets/images/banner-img.png" width="100%" height="80%"/>
-</kbd>
-
-<!--
-[Link to another page](./another-page.html).
---->
-
-***
-
-<kbd>
-    <img src="/assets/images/thumbnail.png" width="110" height="110"/>
-</kbd>
-
-### David P. Rush
-#### Principal of Rush Solutions LLC. 
+#### Principal of Rush Solutions LLC.
 
 ***
 
@@ -68,16 +48,16 @@ comments: true
 
 | ℹ️ |**`CONTACT INFORMATION`** |
 | :--- | :--- |
-| 📇 | 🔗 |
 | <a href="tel:850-890-3498">📞</a> | <a href="tel:850-890-3498">850-890-3498</a> | 
 | [📧](mailto:davidprush@gmail.com) | [davidprush@gmail.com](mailto:davidprush@gmail.com) | 
 | [💻](https://davidprush.com) | [davidprush.com](https://davidprush.com) | 
 | [🌐](https://www.linkedin.com/in/davidprush/) | [LinkedIn](https://www.linkedin.com/in/davidprush/) |
-| [<img src="/assets/images/octocat.PNG" width="25%" height="35%"/>](https://github.com/davidprush/) | [ Github Overview ](https://github.com/davidprush/) |
+| [<img src="{{ site.baseurl }}/assets/images/octocat.png" width="25%" height="35%"/>](https://github.com/davidprush/) | [Github Overview ](https://github.com/davidprush/) |
 | [📃](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf) | [Download a PDF copy of my resume](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf) |
 
 ***
 
+<!--
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
@@ -106,3 +86,4 @@ comments: true
 </div>
 </div>
 </div>
+-->

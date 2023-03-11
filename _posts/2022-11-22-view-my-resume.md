@@ -1,11 +1,14 @@
 ---
-layout: default
-title: View my Resume
-Description:
+layout: post
+title: "View My Resume"
+author: david
+categories: [ Resume, Work ]
+tags: [red, yellow]
+image: assets/images/resume.png
+featured: true
+hidden: true
+rating: 4.5
 ---
-
-[ 🏠 Home Page](https://davidprush.com)
-
 ##### [ 📃 **_Download PDF copy of this resume_**](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf)
 
 # RESUME
@@ -100,8 +103,8 @@ Description:
 > 💭 _Delivered business-enhancing information technology strategies and solutions for small and growth-minded businesses by encouraging and supporting personal growth and professional development._
 > * **Professional Portfolio & Development:** Created a Python program that compares a dictionary file with a text file and compiles a list of matches with frequency of occurrence:
 > 
->   * [<img src="/assets/images/octocat.PNG" width="4%" height="4%"/> **Github Project** \(_keycollator_\)](https://github.com/davidprush/keycollator) 
->   * [<img src="/assets/images/Pypi.PNG" width="4%" height="4%"/> **pypi** \(_pip\) repo_\:keycollator](https://pypi.org/project/keycollator/)
+>   * [<img src="{{ site.baseurl }}/assets/images/octocat.png" width="4%" height="4%"/> **Github Project** \(_keycollator_\)](https://github.com/davidprush/keycollator) 
+>   * [<img src="{{ site.baseurl }}/assets/images/Pypi.png" width="4%" height="4%"/> **pypi** \(_pip\) repo_\:keycollator](https://pypi.org/project/keycollator/)
 >  
 > * **Business Analysis & IT Solutions:** Evaluated business processes and systems to advise technological improvements
 > * **Professional Education:** Completed 11 e-learning courses and enhanced industry skills and knowledge: Excel VBA Process Modeling, Learning ITIL, Become a SQL Developer, SQL Data Reporting and Analysis, SQL for Data Analysis, SQL Queries Made Easy, SQL Essential Training, Programming Foundations Databases, Business Analysis for Project Managers, Project Management Technical Projects, The New Age of Risk Management Strategy for Business
@@ -131,12 +134,11 @@ Description:
 
 | ℹ️ |**`CONTACT INFORMATION`** |
 | :--- | :--- |
-| 📇 | 🔗 |
 | <a href="tel:850-890-3498">📞</a> | <a href="tel:850-890-3498">850-890-3498</a> | 
 | [📧](mailto:davidprush@gmail.com) | [davidprush@gmail.com](mailto:davidprush@gmail.com) | 
 | [💻](https://davidprush.com) | [davidprush.com](https://davidprush.com) | 
 | [🌐](https://www.linkedin.com/in/davidprush/) | [LinkedIn](https://www.linkedin.com/in/davidprush/) |
-| [<img src="/assets/images/octocat.PNG" width="25%" height="35%"/>](https://github.com/davidprush/) | [Github Overview ](https://github.com/davidprush/) |
+| [<img src="{{ site.baseurl }}/assets/images/octocat.png" width="25%" height="35%"/>](https://github.com/davidprush/) | [Github Overview ](https://github.com/davidprush/) |
 | [📃](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf) | [Download a PDF copy of my resume](https://github.com/davidprush/davidprush.github.io/raw/master/docs/11-22-2022-David-Rush-Resume.pdf) |
 
 [ 🏠 Home Page](https://davidprush.com)

@@ -1,16 +1,16 @@
 ---
-layout: default
-title: Linux Enthusiast
-description: 
+layout: post
+title: "Linux Enthusiast"
+author: david
+categories: [ Linux, Personal ]
+tags: [red, yellow]
+image: assets/images/penguin.jpg
+featured: true
+hidden: true
+rating: 4.5
 ---
 
-[ 🏠 Home Page](https://davidprush.com)
-
-# Linux Enthusiast
-
-Previously I wrote 
-[Linux Fanatic Turned Windows Pragmatist](2021-04-08-windows-pragmatist.md) 
-...where I described how I became a pragmatic user of Windows 10. In that post, I described my history with Linux and what caused my newfound acceptance of Windows 10. Notwithstanding, Linux remains my operating system of choice. I wanted to write this post to explain why I am still a Linux enthusiast.
+Previously I wrote about how I became a pragmatic user of Windows 10. In that post, I described my history with Linux and what caused my newfound acceptance of Windows 10. Notwithstanding, Linux remains my operating system of choice. I wanted to write this post to explain why I am still a Linux enthusiast.
 
 ## 1. Freedom
 Linux gives me a greater breadth of freedom in how I use my computer. There are numerous desktop environments to choose from and customization is virtually limitless. I am not speaking of the often touted cliche, "its open source so you can just change it to do what you want," because that is not realistic for even seasoned programmers. However, it is certainly more customizable than Windows or Mac OS because it is open source. 
@@ -28,5 +28,13 @@ Windows frequently "phones home" with telemetry and information that are not alw
 I enjoy programming and tinkering with my computer and Linux provides me with greater programming flexibility. 
 
 I still love Linux, and I will update this post with more reasons and details...
+ 
+ <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
+
+#### So how do we do spoilers?
+
+```html
+<span class="spoiler">My hidden paragraph here.</span>
+```
  
 [ 🏠 Home Page](https://davidprush.com)

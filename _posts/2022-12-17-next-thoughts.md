@@ -1,10 +1,14 @@
 ---
-layout: default
-title: Next Thoughts
-Description:
+layout: post
+title: "Next Thoughts"
+author: david
+categories: [ THoughts, Random ]
+tags: [red, yellow]
+image: assets/images/thoughts.png
+featured: true
+hidden: true
+rating: 4.5
 ---
-
-[ 🏠 Home Page](https://davidprush.com)
 
 # NEXT THOUGHTS
 
