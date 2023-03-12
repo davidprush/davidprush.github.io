@@ -5,7 +5,7 @@ permalink: /about
 comments: true
 ---
 
-[<img src="{{ site.baseurl }}/assets/images/thumbnail.png" width="164" height="164"/>
+<img src="{{ site.baseurl }}/assets/images/thumbnail.png" width="164" height="164"/>
 
 #### Principal of Rush Solutions LLC.
 
