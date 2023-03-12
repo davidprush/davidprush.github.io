@@ -4,7 +4,7 @@ title: "Pragmatic Geek"
 author: david
 categories: [ Linux, Personal, Geek, Biographical ]
 tags: [red, yellow]
-image: assets/images/penguin.jpg
+image: assets/images/geek.jpg
 featured: true
 hidden: true
 rating: 4.5
